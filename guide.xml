@@ -1,0 +1,3550 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Uno (Ecuador)">
+    <display-name lang="es">CANAL UNO</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/uno_ecuador-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Teleamazonas">
+    <display-name lang="es">TELEAMAZONAS</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/teleamazonas-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Ecuavisa (Ecuador)">
+    <display-name lang="es">ECUAVISA</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ecuavisa-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Ecuavisa Internacional">
+    <display-name lang="es">ECUAVISA INTERNACIONAL</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ecuavisa-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Gamavisión">
+    <display-name lang="es">GAMAVISION</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/gamavision-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal GolTV Latinoamérica">
+    <display-name lang="es">GOL TV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Caracol Internacional">
+    <display-name lang="es">CARACOL INTERNACIONAL</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Ecuador TV">
+    <display-name lang="es">ECUADOR TV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ecuador_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal América Televisión (Perú) ">
+    <display-name lang="es">AMERICA TV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ATV ">
+    <display-name lang="es">ATV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal City TV">
+    <display-name lang="es">CITY TV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/city_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Panamericana Televisión ">
+    <display-name lang="es">PANAMERICANA</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Perú Mágico">
+    <display-name lang="es">PERU MAGICO</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/peru_magico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Willax TV">
+    <display-name lang="es">WILLAX</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="PE - Latina">
+    <display-name lang="es">LATINA</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="PE - TV Perú">
+    <display-name lang="es">TV PERU</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="PE - GOL TV">
+    <display-name lang="es">GOL PERU</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Canal Fox">
+    <display-name lang="es">FOX</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_channel-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Premium Cinéma">
+    <display-name lang="es">FOX PREMIUM CINEMA</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_cinema-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Premium Classics">
+    <display-name lang="es">FOX PREMIUM CLASSIC</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_classics-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Premium Comedy">
+    <display-name lang="es">FOX PREMIUM COMEDY</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Premium Action (Este)">
+    <display-name lang="es">FOX PREMIUM ACTION</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Premium Movies">
+    <display-name lang="es">FOX PREMIUM MOVIE</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Premium Series (Este)">
+    <display-name lang="es">FOX PREMIUM SERIES</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO">
+    <display-name lang="es">HBO</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO 2 Latinoamérica">
+    <display-name lang="es">HBO 2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX - HBO Family">
+    <display-name lang="es">HBO FAMILY</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Canal HBO Mundi">
+    <display-name lang="es">HBO MUNDI</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO Plus Este">
+    <display-name lang="es">HBO PLUS</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO Pop">
+    <display-name lang="es">HBO POP</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO Signature Latinoamérica">
+    <display-name lang="es">HBO SIGNATURE</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO Xtreme">
+    <display-name lang="es">HBO XTREME</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinemax (Chile)">
+    <display-name lang="es">CINEMAX</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Warner TV (México)">
+    <display-name lang="es">WARNER)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinecanal (México)">
+    <display-name lang="es">CINECANAL</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinelatino">
+    <display-name lang="es">CINELATINO</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TNT">
+    <display-name lang="es">TNT</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AMC (México)">
+    <display-name lang="es">AMC</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201029001500 -0600" stop="20201029003000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Eternamente bella</title>
+  </programme>
+  <programme start="20201029003000 -0600" stop="20201029050000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Novedades TV</title>
+  </programme>
+  <programme start="20201029050000 -0600" stop="20201029053000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Aquí Entre Nosotros</title>
+  </programme>
+  <programme start="20201029053000 -0600" stop="20201029060000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20201029060000 -0600" stop="20201029070000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20201029070000 -0600" stop="20201029090000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Noticiero confiable</title>
+  </programme>
+  <programme start="20201029090000 -0600" stop="20201029100000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Dios sabe como hace sus cosas</title>
+  </programme>
+  <programme start="20201029100000 -0600" stop="20201029103000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">MWW</title>
+  </programme>
+  <programme start="20201029103000 -0600" stop="20201029110000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20201029110000 -0600" stop="20201029113000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Despertar de la fé - Iglesia universal</title>
+  </programme>
+  <programme start="20201029113000 -0600" stop="20201029123000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Noticiero confiable</title>
+  </programme>
+  <programme start="20201029123000 -0600" stop="20201029133000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Directo al grano con José Delgado</title>
+  </programme>
+  <programme start="20201029133000 -0600" stop="20201029143000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">La bella Ceci y el imprudente</title>
+  </programme>
+  <programme start="20201029143000 -0600" stop="20201029150000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Mujeres al Límite</title>
+  </programme>
+  <programme start="20201029150000 -0600" stop="20201029160000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20201029160000 -0600" stop="20201029163000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Despertar de la fé - Iglesia universal</title>
+  </programme>
+  <programme start="20201029163000 -0600" stop="20201029173000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">La Nocturna</title>
+  </programme>
+  <programme start="20201029173000 -0600" stop="20201029180000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Rafael Orozco</title>
+  </programme>
+  <programme start="20201029180000 -0600" stop="20201029190000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Dios sabe como hace sus cosas</title>
+  </programme>
+  <programme start="20201029190000 -0600" stop="20201029200000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Mi Recinto</title>
+  </programme>
+  <programme start="20201029200000 -0600" stop="20201029203000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Noticiero confiable</title>
+  </programme>
+  <programme start="20201029203000 -0600" stop="20201029213000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">La esclava blanca</title>
+  </programme>
+  <programme start="20201029213000 -0600" stop="20201029223000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">La dinastía</title>
+  </programme>
+  <programme start="20201029223000 -0600" stop="20201029230000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Directo al grano con José Delgado</title>
+  </programme>
+  <programme start="20201029230000 -0600" stop="20201030001500 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Películas</title>
+  </programme>
+  <programme start="20201030203000 -0600" stop="20201030213000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">La esclava blanca</title>
+  </programme>
+  <programme start="20201031060000 -0600" stop="20201031073000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Películas</title>
+  </programme>
+  <programme start="20201031073000 -0600" stop="20201031080000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20201031080000 -0600" stop="20201031083000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">MWW</title>
+  </programme>
+  <programme start="20201031083000 -0600" stop="20201031090000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20201031090000 -0600" stop="20201031093000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">MWW</title>
+  </programme>
+  <programme start="20201031093000 -0600" stop="20201031103000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20201031103000 -0600" stop="20201031110000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20201031113000 -0600" stop="20201031120000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20201031120000 -0600" stop="20201031123000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">JD Producciones</title>
+  </programme>
+  <programme start="20201031123000 -0600" stop="20201031130000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">El canal de la Bahía</title>
+  </programme>
+  <programme start="20201031130000 -0600" stop="20201031150000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Películas</title>
+  </programme>
+  <programme start="20201031150000 -0600" stop="20201031153000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20201031153000 -0600" stop="20201031160000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20201031160000 -0600" stop="20201031163000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Despertar de la fé - Iglesia universal</title>
+  </programme>
+  <programme start="20201031163000 -0600" stop="20201031180000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Películas</title>
+  </programme>
+  <programme start="20201031180000 -0600" stop="20201031200000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Películas</title>
+  </programme>
+  <programme start="20201031200000 -0600" stop="20201031210000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Mi Recinto</title>
+  </programme>
+  <programme start="20201031210000 -0600" stop="20201031223000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">En carne propia - Estelar</title>
+  </programme>
+  <programme start="20201031223000 -0600" stop="20201101003000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Películas</title>
+  </programme>
+  <programme start="20201101003000 -0600" stop="20201101050000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Novedades TV</title>
+  </programme>
+  <programme start="20201101050000 -0600" stop="20201101053000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Aquí Entre Nosotros</title>
+  </programme>
+  <programme start="20201101053000 -0600" stop="20201101060000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20201101060000 -0600" stop="20201101073000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Películas</title>
+  </programme>
+  <programme start="20201101073000 -0600" stop="20201101080000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20201101080000 -0600" stop="20201101083000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">MWW</title>
+  </programme>
+  <programme start="20201101083000 -0600" stop="20201101090000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20201101090000 -0600" stop="20201101093000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">MWW</title>
+  </programme>
+  <programme start="20201101093000 -0600" stop="20201101103000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20201101103000 -0600" stop="20201101110000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20201101110000 -0600" stop="20201101113000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Despertar de la fé - Iglesia universal</title>
+  </programme>
+  <programme start="20201101113000 -0600" stop="20201101120000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20201101120000 -0600" stop="20201101123000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20201101123000 -0600" stop="20201101130000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20201101130000 -0600" stop="20201101143000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Películas</title>
+  </programme>
+  <programme start="20201101143000 -0600" stop="20201101160000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">La india María</title>
+  </programme>
+  <programme start="20201101163000 -0600" stop="20201101183000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Películas</title>
+  </programme>
+  <programme start="20201101183000 -0600" stop="20201101190000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Mi Recinto</title>
+  </programme>
+  <programme start="20201101200000 -0600" stop="20201101214500 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">En carne propia - Estelar</title>
+  </programme>
+  <programme start="20201101214500 -0600" stop="20201101223000 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Veraz</title>
+  </programme>
+  <programme start="20201101223000 -0600" stop="20201102001500 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Cine Uno</title>
+  </programme>
+  <programme start="20201102223000 -0600" stop="20201103001500 -0600" channel="Canal Uno (Ecuador)">
+    <title lang="es">Cine Uno</title>
+  </programme>
+  <programme start="20201029001500 -0600" stop="20201029011500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">C.S.I. Miami</title>
+  </programme>
+  <programme start="20201029011500 -0600" stop="20201029020000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Vivos</title>
+  </programme>
+  <programme start="20201029020000 -0600" stop="20201029023000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20201029023000 -0600" stop="20201029024500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">24 horas</title>
+  </programme>
+  <programme start="20201029024500 -0600" stop="20201029033000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Divino niño</title>
+  </programme>
+  <programme start="20201029033000 -0600" stop="20201029040000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20201029040000 -0600" stop="20201029043000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20201029043000 -0600" stop="20201029050000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Tres Patines</title>
+  </programme>
+  <programme start="20201029050000 -0600" stop="20201029060000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Nuevo rico, nuevo pobre</title>
+  </programme>
+  <programme start="20201029060000 -0600" stop="20201029065500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201029065500 -0600" stop="20201029073000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Los Desayunos De 24 Horas</title>
+  </programme>
+  <programme start="20201029073000 -0600" stop="20201029090000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201029090000 -0600" stop="20201029093000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Soy yo</title>
+  </programme>
+  <programme start="20201029093000 -0600" stop="20201029113000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Madre</title>
+  </programme>
+  <programme start="20201029113000 -0600" stop="20201029123000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Boys Over Flowers</title>
+  </programme>
+  <programme start="20201029123000 -0600" stop="20201029123500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20201029123500 -0600" stop="20201029132500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Tres por tres</title>
+  </programme>
+  <programme start="20201029132500 -0600" stop="20201029135500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201029135500 -0600" stop="20201029140700 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Comunidad</title>
+  </programme>
+  <programme start="20201029140700 -0600" stop="20201029141500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">En corto</title>
+  </programme>
+  <programme start="20201029141500 -0600" stop="20201029143000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Deporte Total</title>
+  </programme>
+  <programme start="20201029143000 -0600" stop="20201029150000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20201029150000 -0600" stop="20201029160000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20201029160000 -0600" stop="20201029163000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20201029163000 -0600" stop="20201029170000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20201029170000 -0600" stop="20201029180000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20201029180000 -0600" stop="20201029190000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Nuevo rico, nuevo pobre</title>
+  </programme>
+  <programme start="20201029190000 -0600" stop="20201029200000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201029200000 -0600" stop="20201029210000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201029210000 -0600" stop="20201029220000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Bolívar</title>
+  </programme>
+  <programme start="20201029220000 -0600" stop="20201029230000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">La reina del flow</title>
+  </programme>
+  <programme start="20201029230000 -0600" stop="20201029231000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20201029231000 -0600" stop="20201030001500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Perseguidos</title>
+  </programme>
+  <programme start="20201030001500 -0600" stop="20201030011500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">C.S.I. Las Vegas</title>
+  </programme>
+  <programme start="20201030200000 -0600" stop="20201030210000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201031001500 -0600" stop="20201031011500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Rosewood</title>
+  </programme>
+  <programme start="20201031024500 -0600" stop="20201031031500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20201031031500 -0600" stop="20201031033000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20201031033000 -0600" stop="20201031043000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">PluriTV</title>
+  </programme>
+  <programme start="20201031043000 -0600" stop="20201031050000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">PluriTV</title>
+  </programme>
+  <programme start="20201031050000 -0600" stop="20201031053000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Geeks</title>
+  </programme>
+  <programme start="20201031053000 -0600" stop="20201031060000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Tres Patines</title>
+  </programme>
+  <programme start="20201031060000 -0600" stop="20201031070000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20201031070000 -0600" stop="20201031080000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">El Encantador de Perros</title>
+  </programme>
+  <programme start="20201031080000 -0600" stop="20201031100000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20201031100000 -0600" stop="20201031103000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Soy yo</title>
+  </programme>
+  <programme start="20201031103000 -0600" stop="20201031110000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">iCarly</title>
+  </programme>
+  <programme start="20201031110000 -0600" stop="20201031120000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Knight Squad</title>
+  </programme>
+  <programme start="20201031120000 -0600" stop="20201031130000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Raw</title>
+  </programme>
+  <programme start="20201031130000 -0600" stop="20201031140000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Smack Down</title>
+  </programme>
+  <programme start="20201031140000 -0600" stop="20201031170000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Súper Nick</title>
+  </programme>
+  <programme start="20201031170000 -0600" stop="20201031173000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20201031173000 -0600" stop="20201031180000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201031180000 -0600" stop="20201031190000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Fresh Off the Boat</title>
+  </programme>
+  <programme start="20201031190000 -0600" stop="20201031200000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Glee</title>
+  </programme>
+  <programme start="20201031200000 -0600" stop="20201031220000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Princesa valiente</title>
+  </programme>
+  <programme start="20201031220000 -0600" stop="20201031230000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">América Vive</title>
+  </programme>
+  <programme start="20201031230000 -0600" stop="20201031230500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Palau la Película</title>
+  </programme>
+  <programme start="20201031230500 -0600" stop="20201101011500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Palau la Película</title>
+  </programme>
+  <programme start="20201101230500 -0600" stop="20201102011500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Palau la Película</title>
+  </programme>
+  <programme start="20201102011500 -0600" stop="20201102021500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">UHF</title>
+  </programme>
+  <programme start="20201102021500 -0600" stop="20201102024500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20201102024500 -0600" stop="20201102050000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Yo Me Llamo</title>
+  </programme>
+  <programme start="20201102050000 -0600" stop="20201102053000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Geeks</title>
+  </programme>
+  <programme start="20201102053000 -0600" stop="20201102060000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Tres Patines</title>
+  </programme>
+  <programme start="20201102060000 -0600" stop="20201102070000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20201102070000 -0600" stop="20201102080000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">El Encantador de Perros</title>
+  </programme>
+  <programme start="20201102080000 -0600" stop="20201102100000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20201102100000 -0600" stop="20201102103000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20201102103000 -0600" stop="20201102110000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">El Encantador de Perros</title>
+  </programme>
+  <programme start="20201102110000 -0600" stop="20201102113300 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20201102113300 -0600" stop="20201102120000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Documentales de Animales</title>
+  </programme>
+  <programme start="20201102120000 -0600" stop="20201102123000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20201102123000 -0600" stop="20201102143000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">América Vive</title>
+  </programme>
+  <programme start="20201102143000 -0600" stop="20201102154500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Oie</title>
+  </programme>
+  <programme start="20201102154500 -0600" stop="20201102164500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20201102164500 -0600" stop="20201102174500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20201102174500 -0600" stop="20201102191500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Palau la Película</title>
+  </programme>
+  <programme start="20201102191500 -0600" stop="20201102210000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Palau la Película</title>
+  </programme>
+  <programme start="20201102210000 -0600" stop="20201102220000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">No-Ticias</title>
+  </programme>
+  <programme start="20201102220000 -0600" stop="20201102223500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201102223500 -0600" stop="20201102233500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Hora 25</title>
+  </programme>
+  <programme start="20201102233500 -0600" stop="20201103000500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Deporte Total</title>
+  </programme>
+  <programme start="20201103233500 -0600" stop="20201104000500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Deporte Total</title>
+  </programme>
+  <programme start="20201104000500 -0600" stop="20201104003000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">En corto</title>
+  </programme>
+  <programme start="20201104003000 -0600" stop="20201104013000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20201104013000 -0600" stop="20201104021500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20201104021500 -0600" stop="20201104024500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">24 horas</title>
+  </programme>
+  <programme start="20201104024500 -0600" stop="20201104031500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Deporte Total</title>
+  </programme>
+  <programme start="20201104031500 -0600" stop="20201104034500 -0600" channel="Canal Teleamazonas">
+    <title lang="es">En corto</title>
+  </programme>
+  <programme start="20201104034500 -0600" stop="20201104043000 -0600" channel="Canal Teleamazonas">
+    <title lang="es">Hora 25</title>
+  </programme>
+  <programme start="20201029004500 -0600" stop="20201029013000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Un Esposo para Estela</title>
+  </programme>
+  <programme start="20201029013000 -0600" stop="20201029023000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">La Hija del Mariachi</title>
+  </programme>
+  <programme start="20201029023000 -0600" stop="20201029033000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">La Trampa</title>
+  </programme>
+  <programme start="20201029033000 -0600" stop="20201029050000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Sombras del ayer</title>
+  </programme>
+  <programme start="20201029050000 -0600" stop="20201029060000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Matar a Jesús</title>
+  </programme>
+  <programme start="20201029060000 -0600" stop="20201029070000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201029070000 -0600" stop="20201029073000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Contacto Directo</title>
+  </programme>
+  <programme start="20201029073000 -0600" stop="20201029083000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201029083000 -0600" stop="20201029093000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20201029093000 -0600" stop="20201029103000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20201029103000 -0600" stop="20201029130000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20201029130000 -0600" stop="20201029140000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201029140000 -0600" stop="20201029150000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20201029150000 -0600" stop="20201029160000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20201029160000 -0600" stop="20201029173000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Siempre tuya Acapulco</title>
+  </programme>
+  <programme start="20201029173000 -0600" stop="20201029190000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Gata Salvaje</title>
+  </programme>
+  <programme start="20201029190000 -0600" stop="20201029200000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201029200000 -0600" stop="20201029210000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Gülperi</title>
+  </programme>
+  <programme start="20201029210000 -0600" stop="20201029220000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Una parte de mi</title>
+  </programme>
+  <programme start="20201029220000 -0600" stop="20201029230000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Sí Se Puede</title>
+  </programme>
+  <programme start="20201029230000 -0600" stop="20201030000000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Trinity</title>
+  </programme>
+  <programme start="20201030200000 -0600" stop="20201030210000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Gülperi</title>
+  </programme>
+  <programme start="20201031033000 -0600" stop="20201031050000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">El pájaro loco</title>
+  </programme>
+  <programme start="20201031050000 -0600" stop="20201031053000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Plaza Sesamo</title>
+  </programme>
+  <programme start="20201031053000 -0600" stop="20201031060000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Ripley's</title>
+  </programme>
+  <programme start="20201031060000 -0600" stop="20201031073000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20201031073000 -0600" stop="20201031083000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Vive simple</title>
+  </programme>
+  <programme start="20201031083000 -0600" stop="20201031090000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20201031090000 -0600" stop="20201031093000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Pan Nuestro</title>
+  </programme>
+  <programme start="20201031093000 -0600" stop="20201031103000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20201031103000 -0600" stop="20201031110000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20201031110000 -0600" stop="20201031120000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20201031120000 -0600" stop="20201031130000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20201031130000 -0600" stop="20201031140000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Serie</title>
+  </programme>
+  <programme start="20201031140000 -0600" stop="20201031150000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">¡Que Familia</title>
+  </programme>
+  <programme start="20201031150000 -0600" stop="20201031153000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">El pájaro loco</title>
+  </programme>
+  <programme start="20201031153000 -0600" stop="20201031190000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20201031190000 -0600" stop="20201031193000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201031193000 -0600" stop="20201031213000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20201031213000 -0600" stop="20201031233000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20201031233000 -0600" stop="20201101013000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20201101013000 -0600" stop="20201101023000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Ripley's</title>
+  </programme>
+  <programme start="20201101023000 -0600" stop="20201101033000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20201101033000 -0600" stop="20201101050000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">El pájaro loco</title>
+  </programme>
+  <programme start="20201101050000 -0600" stop="20201101053000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Plaza Sesamo</title>
+  </programme>
+  <programme start="20201101053000 -0600" stop="20201101060000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">El pájaro loco</title>
+  </programme>
+  <programme start="20201101060000 -0600" stop="20201101073000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Macgyver</title>
+  </programme>
+  <programme start="20201101073000 -0600" stop="20201101083000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Ripley's</title>
+  </programme>
+  <programme start="20201101083000 -0600" stop="20201101093000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20201101093000 -0600" stop="20201101103000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Panorama Internacional</title>
+  </programme>
+  <programme start="20201101103000 -0600" stop="20201101113000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Políticamente correcto</title>
+  </programme>
+  <programme start="20201101113000 -0600" stop="20201101123000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Esta Semana con Pedro Jiménez</title>
+  </programme>
+  <programme start="20201101123000 -0600" stop="20201101130000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Entre flashes</title>
+  </programme>
+  <programme start="20201101130000 -0600" stop="20201101140000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Magnum P.I</title>
+  </programme>
+  <programme start="20201101140000 -0600" stop="20201101150000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Brigada A</title>
+  </programme>
+  <programme start="20201101150000 -0600" stop="20201101161500 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">El Hombre Increíble</title>
+  </programme>
+  <programme start="20201101161500 -0600" stop="20201101190000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20201101190000 -0600" stop="20201101200000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201101200000 -0600" stop="20201101223000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20201101223000 -0600" stop="20201102003000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20201102223000 -0600" stop="20201103003000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20201103003000 -0600" stop="20201103013000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Mi ex me tiene ganas</title>
+  </programme>
+  <programme start="20201103013000 -0600" stop="20201103021500 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Un Esposo para Estela</title>
+  </programme>
+  <programme start="20201103021500 -0600" stop="20201103030000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">La Hija del Mariachi</title>
+  </programme>
+  <programme start="20201103030000 -0600" stop="20201103034500 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">La Trampa</title>
+  </programme>
+  <programme start="20201103034500 -0600" stop="20201103050000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Sombras del ayer</title>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103060000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Fina estampa</title>
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103070000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201103070000 -0600" stop="20201103074500 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Contacto Directo</title>
+  </programme>
+  <programme start="20201103074500 -0600" stop="20201103084500 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201103084500 -0600" stop="20201103093000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Hija del Mariachi</title>
+  </programme>
+  <programme start="20201103093000 -0600" stop="20201103103000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20201103103000 -0600" stop="20201103130000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20201103130000 -0600" stop="20201103140000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201103140000 -0600" stop="20201103143000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Señores Papis</title>
+  </programme>
+  <programme start="20201103143000 -0600" stop="20201103150000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103170000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20201103170000 -0600" stop="20201103173000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Mi Gorda Bella</title>
+  </programme>
+  <programme start="20201103173000 -0600" stop="20201103190000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20201029010000 -0600" stop="20201029020000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20201029020000 -0600" stop="20201029030000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">PluriTV</title>
+  </programme>
+  <programme start="20201029030000 -0600" stop="20201029033000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Crónicas urbanas</title>
+  </programme>
+  <programme start="20201029033000 -0600" stop="20201029040000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Pasado y Confeso</title>
+  </programme>
+  <programme start="20201029040000 -0600" stop="20201029050000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sharon, la hechicera</title>
+  </programme>
+  <programme start="20201029050000 -0600" stop="20201029060000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Celebridad</title>
+  </programme>
+  <programme start="20201029060000 -0600" stop="20201029070000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo Al Amanecer Costa</title>
+  </programme>
+  <programme start="20201029070000 -0600" stop="20201029074500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Contacto Directo</title>
+  </programme>
+  <programme start="20201029074500 -0600" stop="20201029083000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo en la Comunidad Costa</title>
+  </programme>
+  <programme start="20201029083000 -0600" stop="20201029093000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20201029093000 -0600" stop="20201029103000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sí Se Puede</title>
+  </programme>
+  <programme start="20201029103000 -0600" stop="20201029130000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20201029130000 -0600" stop="20201029140000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201029140000 -0600" stop="20201029150000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Celebridad</title>
+  </programme>
+  <programme start="20201029150000 -0600" stop="20201029160000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sharon, la hechicera</title>
+  </programme>
+  <programme start="20201029160000 -0600" stop="20201029170000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sí Se Puede</title>
+  </programme>
+  <programme start="20201029170000 -0600" stop="20201029173000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20201029173000 -0600" stop="20201029180000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20201029180000 -0600" stop="20201029183000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20201029183000 -0600" stop="20201029190000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20201029190000 -0600" stop="20201029200000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201029200000 -0600" stop="20201029210000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Celebridad</title>
+  </programme>
+  <programme start="20201029210000 -0600" stop="20201029220000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sharon, la hechicera</title>
+  </programme>
+  <programme start="20201029220000 -0600" stop="20201029230000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sí Se Puede</title>
+  </programme>
+  <programme start="20201029230000 -0600" stop="20201029233000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Crónicas urbanas</title>
+  </programme>
+  <programme start="20201029233000 -0600" stop="20201030000000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Pasado y Confeso</title>
+  </programme>
+  <programme start="20201030200000 -0600" stop="20201030210000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Celebridad</title>
+  </programme>
+  <programme start="20201031060000 -0600" stop="20201031063000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201031063000 -0600" stop="20201031073000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201031073000 -0600" stop="20201031080000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201031080000 -0600" stop="20201031083000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Chef Ventura</title>
+  </programme>
+  <programme start="20201031083000 -0600" stop="20201031090000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20201031090000 -0600" stop="20201031093000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Ecuador Olímpico</title>
+  </programme>
+  <programme start="20201031093000 -0600" stop="20201031100000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Hablando de Inmigración</title>
+  </programme>
+  <programme start="20201031100000 -0600" stop="20201031110000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Esta semana</title>
+  </programme>
+  <programme start="20201031110000 -0600" stop="20201031120000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20201031120000 -0600" stop="20201031140000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Lo Mejor De: En Contacto</title>
+  </programme>
+  <programme start="20201031140000 -0600" stop="20201031160000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sí Se Puede</title>
+  </programme>
+  <programme start="20201031160000 -0600" stop="20201031173000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sharon, la hechicera</title>
+  </programme>
+  <programme start="20201031173000 -0600" stop="20201031190000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Resumen semanal Celebridad</title>
+  </programme>
+  <programme start="20201031190000 -0600" stop="20201031193000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201031193000 -0600" stop="20201031200000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Un vinito con Fiorella</title>
+  </programme>
+  <programme start="20201031200000 -0600" stop="20201031203000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20201031203000 -0600" stop="20201031210000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20201031210000 -0600" stop="20201031220000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Esta semana</title>
+  </programme>
+  <programme start="20201031220000 -0600" stop="20201031223000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Crónicas urbanas</title>
+  </programme>
+  <programme start="20201031223000 -0600" stop="20201031230000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Crónicas urbanas</title>
+  </programme>
+  <programme start="20201031230000 -0600" stop="20201101000000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Secretos</title>
+  </programme>
+  <programme start="20201101000000 -0600" stop="20201101020000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Pasado y Confeso</title>
+  </programme>
+  <programme start="20201101020000 -0600" stop="20201101023000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">La Panadería</title>
+  </programme>
+  <programme start="20201101023000 -0600" stop="20201101033000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Famosos y Mascotas</title>
+  </programme>
+  <programme start="20201101033000 -0600" stop="20201101040000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Chef Ventura</title>
+  </programme>
+  <programme start="20201101040000 -0600" stop="20201101043000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Ecuador Olímpico</title>
+  </programme>
+  <programme start="20201101043000 -0600" stop="20201101050000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20201101050000 -0600" stop="20201101060000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20201101060000 -0600" stop="20201101070000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Esta semana</title>
+  </programme>
+  <programme start="20201101070000 -0600" stop="20201101073000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Plenitud de Vida</title>
+  </programme>
+  <programme start="20201101073000 -0600" stop="20201101080000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20201101080000 -0600" stop="20201101083000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Hablando de Inmigración</title>
+  </programme>
+  <programme start="20201101083000 -0600" stop="20201101093000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20201101093000 -0600" stop="20201101103000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Esta semana</title>
+  </programme>
+  <programme start="20201101103000 -0600" stop="20201101113000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Políticamente correcto</title>
+  </programme>
+  <programme start="20201101113000 -0600" stop="20201101120000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20201101120000 -0600" stop="20201101123000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20201101123000 -0600" stop="20201101130000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20201101130000 -0600" stop="20201101140000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20201101140000 -0600" stop="20201101160000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Resumen semanal Celebridad</title>
+  </programme>
+  <programme start="20201101160000 -0600" stop="20201101180000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sharon, la hechicera</title>
+  </programme>
+  <programme start="20201101180000 -0600" stop="20201101200000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sí Se Puede</title>
+  </programme>
+  <programme start="20201101200000 -0600" stop="20201101210000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo Domingo</title>
+  </programme>
+  <programme start="20201101210000 -0600" stop="20201101213000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Un vinito con Fiorella</title>
+  </programme>
+  <programme start="20201101213000 -0600" stop="20201101223000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Secretos</title>
+  </programme>
+  <programme start="20201101223000 -0600" stop="20201101233000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Milagros</title>
+  </programme>
+  <programme start="20201101233000 -0600" stop="20201102003000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Crónicas urbanas</title>
+  </programme>
+  <programme start="20201102233000 -0600" stop="20201103003000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Crónicas urbanas</title>
+  </programme>
+  <programme start="20201103003000 -0600" stop="20201103013000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20201103013000 -0600" stop="20201103023000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo Domingo</title>
+  </programme>
+  <programme start="20201103023000 -0600" stop="20201103033000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Políticamente correcto</title>
+  </programme>
+  <programme start="20201103033000 -0600" stop="20201103043000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Famosos y Mascotas</title>
+  </programme>
+  <programme start="20201103043000 -0600" stop="20201103050000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Chef Ventura</title>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103053000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">La Panadería</title>
+  </programme>
+  <programme start="20201103053000 -0600" stop="20201103060000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103070000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Lo Mejor De: En Contacto</title>
+  </programme>
+  <programme start="20201103070000 -0600" stop="20201103080000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo Al Amanecer Costa</title>
+  </programme>
+  <programme start="20201103080000 -0600" stop="20201103084500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Contacto Directo</title>
+  </programme>
+  <programme start="20201103084500 -0600" stop="20201103094500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20201103094500 -0600" stop="20201103104500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sí Se Puede</title>
+  </programme>
+  <programme start="20201103104500 -0600" stop="20201103131500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20201103131500 -0600" stop="20201103141500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201103141500 -0600" stop="20201103151500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Celebridad</title>
+  </programme>
+  <programme start="20201103151500 -0600" stop="20201103161500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sharon, la hechicera</title>
+  </programme>
+  <programme start="20201103161500 -0600" stop="20201103171500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sí Se Puede</title>
+  </programme>
+  <programme start="20201103171500 -0600" stop="20201103174500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20201103174500 -0600" stop="20201103181500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20201103181500 -0600" stop="20201103184500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20201103184500 -0600" stop="20201103191500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20201103191500 -0600" stop="20201103201500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201103201500 -0600" stop="20201103211500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Celebridad</title>
+  </programme>
+  <programme start="20201103211500 -0600" stop="20201103221500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sharon, la hechicera</title>
+  </programme>
+  <programme start="20201103221500 -0600" stop="20201103231500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sí Se Puede</title>
+  </programme>
+  <programme start="20201103231500 -0600" stop="20201103234500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Crónicas urbanas</title>
+  </programme>
+  <programme start="20201103234500 -0600" stop="20201104001500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Pasado y Confeso</title>
+  </programme>
+  <programme start="20201104234500 -0600" stop="20201105001500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Pasado y Confeso</title>
+  </programme>
+  <programme start="20201105001500 -0600" stop="20201105011500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201105011500 -0600" stop="20201105021500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20201105021500 -0600" stop="20201105031500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">PluriTV</title>
+  </programme>
+  <programme start="20201105031500 -0600" stop="20201105034500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Crónicas urbanas</title>
+  </programme>
+  <programme start="20201105034500 -0600" stop="20201105041500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Pasado y Confeso</title>
+  </programme>
+  <programme start="20201105041500 -0600" stop="20201105060000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sharon, la hechicera</title>
+  </programme>
+  <programme start="20201105060000 -0600" stop="20201105070000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Celebridad</title>
+  </programme>
+  <programme start="20201105070000 -0600" stop="20201105080000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo Al Amanecer Costa</title>
+  </programme>
+  <programme start="20201105080000 -0600" stop="20201105084500 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Contacto Directo</title>
+  </programme>
+  <programme start="20201105084500 -0600" stop="20201105093000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo en la Comunidad Costa</title>
+  </programme>
+  <programme start="20201105093000 -0600" stop="20201105103000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20201105103000 -0600" stop="20201105113000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sí Se Puede</title>
+  </programme>
+  <programme start="20201105113000 -0600" stop="20201105140000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20201105140000 -0600" stop="20201105150000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201105150000 -0600" stop="20201105160000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Celebridad</title>
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105170000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sharon, la hechicera</title>
+  </programme>
+  <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sí Se Puede</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105183000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20201105183000 -0600" stop="20201105190000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20201105190000 -0600" stop="20201105193000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20201105193000 -0600" stop="20201105200000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20201105200000 -0600" stop="20201105210000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20201105210000 -0600" stop="20201105220000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Celebridad</title>
+  </programme>
+  <programme start="20201105220000 -0600" stop="20201105230000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sharon, la hechicera</title>
+  </programme>
+  <programme start="20201105230000 -0600" stop="20201106000000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Sí Se Puede</title>
+  </programme>
+  <programme start="20201029010000 -0600" stop="20201029013000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol Uruguay</title>
+  </programme>
+  <programme start="20201029013000 -0600" stop="20201029033000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Santa Clara vs. Sporting</title>
+  </programme>
+  <programme start="20201029033000 -0600" stop="20201029043000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+  <programme start="20201029043000 -0600" stop="20201029063000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Sao Paulo vs. Fortaleza</title>
+  </programme>
+  <programme start="20201029063000 -0600" stop="20201029070000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Fechas Pasadas</title>
+  </programme>
+  <programme start="20201029070000 -0600" stop="20201029080000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Portugol</title>
+  </programme>
+  <programme start="20201029080000 -0600" stop="20201029090000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20201029090000 -0600" stop="20201029110000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Sporting vs. Gil Vicente</title>
+  </programme>
+  <programme start="20201029110000 -0600" stop="20201029113000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">The Football Review</title>
+  </programme>
+  <programme start="20201029113000 -0600" stop="20201029120000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol Uruguay</title>
+  </programme>
+  <programme start="20201029120000 -0600" stop="20201029130000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">El Show del Fútbol</title>
+  </programme>
+  <programme start="20201029130000 -0600" stop="20201029140000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">GolNoticias</title>
+  </programme>
+  <programme start="20201029140000 -0600" stop="20201029150000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Portugol</title>
+  </programme>
+  <programme start="20201029150000 -0600" stop="20201029160000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+  <programme start="20201029160000 -0600" stop="20201029163000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol Uruguay</title>
+  </programme>
+  <programme start="20201029163000 -0600" stop="20201029173000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20201029173000 -0600" stop="20201029180000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol - Perú</title>
+  </programme>
+  <programme start="20201029180000 -0600" stop="20201029183000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">The Football Review</title>
+  </programme>
+  <programme start="20201029183000 -0600" stop="20201029190000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">GOGOGOAL</title>
+  </programme>
+  <programme start="20201029190000 -0600" stop="20201029200000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">GolTV Noticias</title>
+  </programme>
+  <programme start="20201029200000 -0600" stop="20201029220000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Liga de Quito vs. El Nacional</title>
+  </programme>
+  <programme start="20201029220000 -0600" stop="20201029230000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Portugol</title>
+  </programme>
+  <programme start="20201029230000 -0600" stop="20201029233000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol Uruguay</title>
+  </programme>
+  <programme start="20201029233000 -0600" stop="20201030000000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Fechas Pasadas</title>
+  </programme>
+  <programme start="20201030010000 -0600" stop="20201030030000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Benfica vs. Belenenses</title>
+  </programme>
+  <programme start="20201030030000 -0600" stop="20201030033000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol - Perú</title>
+  </programme>
+  <programme start="20201030033000 -0600" stop="20201030043000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20201030043000 -0600" stop="20201030050000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol Uruguay</title>
+  </programme>
+  <programme start="20201030050000 -0600" stop="20201030053000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">The Football Review</title>
+  </programme>
+  <programme start="20201030053000 -0600" stop="20201030060000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">GOGOGOAL</title>
+  </programme>
+  <programme start="20201030060000 -0600" stop="20201030080000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Portoviejo vs. Barcelona</title>
+  </programme>
+  <programme start="20201030080000 -0600" stop="20201030090000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Portugol</title>
+  </programme>
+  <programme start="20201030090000 -0600" stop="20201030110000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Corinthians vs. América - MG</title>
+  </programme>
+  <programme start="20201030110000 -0600" stop="20201030120000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20201030140000 -0600" stop="20201030143000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">The Football Review</title>
+  </programme>
+  <programme start="20201030143000 -0600" stop="20201030150000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol Uruguay</title>
+  </programme>
+  <programme start="20201030150000 -0600" stop="20201030170000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">P. Ferreira vs. Porto</title>
+  </programme>
+  <programme start="20201030170000 -0600" stop="20201030173000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol - Perú</title>
+  </programme>
+  <programme start="20201030173000 -0600" stop="20201030180000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">GOGOGOAL</title>
+  </programme>
+  <programme start="20201030180000 -0600" stop="20201030190000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20201030190000 -0600" stop="20201030210000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Deportivo Cuenca vs. El Nacional En Vivo</title>
+  </programme>
+  <programme start="20201030210000 -0600" stop="20201030220000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">GolTV Noticias</title>
+  </programme>
+  <programme start="20201030220000 -0600" stop="20201030223000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">The Football Review</title>
+  </programme>
+  <programme start="20201030223000 -0600" stop="20201030230000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol - Perú</title>
+  </programme>
+  <programme start="20201030230000 -0600" stop="20201030233000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">GOGOGOAL</title>
+  </programme>
+  <programme start="20201029010000 -0600" stop="20201029020000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La nocturna</title>
+  </programme>
+  <programme start="20201029020000 -0600" stop="20201029030000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Expediente Final</title>
+  </programme>
+  <programme start="20201029030000 -0600" stop="20201029040000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Tu voz estéreo</title>
+  </programme>
+  <programme start="20201029040000 -0600" stop="20201029043000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">El Diario de Diana</title>
+  </programme>
+  <programme start="20201029043000 -0600" stop="20201029050000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Dolce Vita</title>
+  </programme>
+  <programme start="20201029050000 -0600" stop="20201029051500 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Finca de Hoy</title>
+  </programme>
+  <programme start="20201029051500 -0600" stop="20201029053000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Día a día I</title>
+  </programme>
+  <programme start="20201029053000 -0600" stop="20201029084500 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201029084500 -0600" stop="20201029094500 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Día a día I</title>
+  </programme>
+  <programme start="20201029094500 -0600" stop="20201029101500 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">El Diario de Diana</title>
+  </programme>
+  <programme start="20201029101500 -0600" stop="20201029103000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Viajeros por naturaleza</title>
+  </programme>
+  <programme start="20201029103000 -0600" stop="20201029110000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Latinos por el mundo</title>
+  </programme>
+  <programme start="20201029110000 -0600" stop="20201029113000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Travesía</title>
+  </programme>
+  <programme start="20201029113000 -0600" stop="20201029123000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Tu voz estéreo</title>
+  </programme>
+  <programme start="20201029123000 -0600" stop="20201029153000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201029153000 -0600" stop="20201029163000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Desafío súper humanos Trinidad y Tobago</title>
+  </programme>
+  <programme start="20201029163000 -0600" stop="20201029173000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La nocturna</title>
+  </programme>
+  <programme start="20201029173000 -0600" stop="20201029180000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Testigo Directo</title>
+  </programme>
+  <programme start="20201029180000 -0600" stop="20201029190000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Los Informantes</title>
+  </programme>
+  <programme start="20201029190000 -0600" stop="20201029193000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">360 desde casa</title>
+  </programme>
+  <programme start="20201029193000 -0600" stop="20201029203000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201029203000 -0600" stop="20201029213000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Desafío súper humanos Trinidad y Tobago</title>
+  </programme>
+  <programme start="20201029213000 -0600" stop="20201029223000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La nocturna</title>
+  </programme>
+  <programme start="20201029223000 -0600" stop="20201029230000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Dolce Vita</title>
+  </programme>
+  <programme start="20201029230000 -0600" stop="20201029233000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Última Edición</title>
+  </programme>
+  <programme start="20201029233000 -0600" stop="20201030000000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">El Diario de Diana</title>
+  </programme>
+  <programme start="20201030020000 -0600" stop="20201030023000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">De Moda con Ericka</title>
+  </programme>
+  <programme start="20201030023000 -0600" stop="20201030030000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Travesía</title>
+  </programme>
+  <programme start="20201030030000 -0600" stop="20201030040000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Tu voz estéreo</title>
+  </programme>
+  <programme start="20201030040000 -0600" stop="20201030043000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">El Diario de Diana</title>
+  </programme>
+  <programme start="20201030043000 -0600" stop="20201030050000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Los magos de la cocina</title>
+  </programme>
+  <programme start="20201030050000 -0600" stop="20201030051500 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Finca de Hoy</title>
+  </programme>
+  <programme start="20201030051500 -0600" stop="20201030053000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Día a día I</title>
+  </programme>
+  <programme start="20201030053000 -0600" stop="20201030084500 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201030084500 -0600" stop="20201030094500 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Día a día I</title>
+  </programme>
+  <programme start="20201030094500 -0600" stop="20201030101500 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">El Diario de Diana</title>
+  </programme>
+  <programme start="20201030101500 -0600" stop="20201030104500 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Dolce Vita</title>
+  </programme>
+  <programme start="20201030104500 -0600" stop="20201030110000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Viajeros por naturaleza</title>
+  </programme>
+  <programme start="20201030110000 -0600" stop="20201030113000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">El Diario de Diana</title>
+  </programme>
+  <programme start="20201030113000 -0600" stop="20201030123000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Tu voz estéreo</title>
+  </programme>
+  <programme start="20201030123000 -0600" stop="20201030153000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201030153000 -0600" stop="20201030163000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Desafío súper humanos Trinidad y Tobago</title>
+  </programme>
+  <programme start="20201030163000 -0600" stop="20201030173000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La nocturna</title>
+  </programme>
+  <programme start="20201030173000 -0600" stop="20201030180000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">De Moda con Ericka</title>
+  </programme>
+  <programme start="20201030180000 -0600" stop="20201030190000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">The Suso's show</title>
+  </programme>
+  <programme start="20201030190000 -0600" stop="20201030203000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201030203000 -0600" stop="20201030213000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Desafío súper humanos Trinidad y Tobago</title>
+  </programme>
+  <programme start="20201030223000 -0600" stop="20201030230000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Los magos de la cocina</title>
+  </programme>
+  <programme start="20201031020000 -0600" stop="20201031023000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Dolce Vita</title>
+  </programme>
+  <programme start="20201031043000 -0600" stop="20201031050000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">De Moda con Ericka</title>
+  </programme>
+  <programme start="20201031050000 -0600" stop="20201031053000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Sartén por el Mango</title>
+  </programme>
+  <programme start="20201031053000 -0600" stop="20201031070000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201031070000 -0600" stop="20201031080000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Finca de Hoy</title>
+  </programme>
+  <programme start="20201031080000 -0600" stop="20201031083000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Club 10</title>
+  </programme>
+  <programme start="20201031083000 -0600" stop="20201031090000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">360 desde casa</title>
+  </programme>
+  <programme start="20201031090000 -0600" stop="20201031100000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Se dice de mi</title>
+  </programme>
+  <programme start="20201031100000 -0600" stop="20201031103000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Latinos por el mundo</title>
+  </programme>
+  <programme start="20201031103000 -0600" stop="20201031110000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">De Moda con Ericka</title>
+  </programme>
+  <programme start="20201031110000 -0600" stop="20201031113000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Dolce Vita</title>
+  </programme>
+  <programme start="20201031113000 -0600" stop="20201031120000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Sartén por el Mango</title>
+  </programme>
+  <programme start="20201031120000 -0600" stop="20201031123000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Travesía</title>
+  </programme>
+  <programme start="20201031123000 -0600" stop="20201031150000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201031150000 -0600" stop="20201031180000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20201031180000 -0600" stop="20201031190000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Se dice de mi</title>
+  </programme>
+  <programme start="20201031203000 -0600" stop="20201031230000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Sábados Felices</title>
+  </programme>
+  <programme start="20201031230000 -0600" stop="20201101000000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Se dice de mi</title>
+  </programme>
+  <programme start="20201101000000 -0600" stop="20201101024500 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20201101024500 -0600" stop="20201101050000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Sábados Felices</title>
+  </programme>
+  <programme start="20201101050000 -0600" stop="20201101063000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201101063000 -0600" stop="20201101073000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Finca de Hoy</title>
+  </programme>
+  <programme start="20201101073000 -0600" stop="20201101080000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Dolce Vita</title>
+  </programme>
+  <programme start="20201101080000 -0600" stop="20201101083000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">El Diario de Diana</title>
+  </programme>
+  <programme start="20201101083000 -0600" stop="20201101090000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Latinos por el mundo</title>
+  </programme>
+  <programme start="20201101090000 -0600" stop="20201101100000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20201101100000 -0600" stop="20201101101500 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Angelus desde el vaticano</title>
+  </programme>
+  <programme start="20201101101500 -0600" stop="20201101104500 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Las mujeres de mi tierra</title>
+  </programme>
+  <programme start="20201101104500 -0600" stop="20201101110000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Viajeros por naturaleza</title>
+  </programme>
+  <programme start="20201101110000 -0600" stop="20201101113000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Los magos de la cocina</title>
+  </programme>
+  <programme start="20201101150000 -0600" stop="20201101163000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20201101163000 -0600" stop="20201101173000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Expediente Final</title>
+  </programme>
+  <programme start="20201101173000 -0600" stop="20201101190000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">The Suso's show</title>
+  </programme>
+  <programme start="20201101190000 -0600" stop="20201101203000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201101203000 -0600" stop="20201101213000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Los Informantes</title>
+  </programme>
+  <programme start="20201101213000 -0600" stop="20201101223000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Séptimo Día</title>
+  </programme>
+  <programme start="20201101223000 -0600" stop="20201101230000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">360 desde casa</title>
+  </programme>
+  <programme start="20201101230000 -0600" stop="20201102000000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">The Suso's show</title>
+  </programme>
+  <programme start="20201102000000 -0600" stop="20201102003000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Los magos de la cocina</title>
+  </programme>
+  <programme start="20201102003000 -0600" stop="20201102013000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Séptimo Día</title>
+  </programme>
+  <programme start="20201102013000 -0600" stop="20201102020000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Sartén por el Mango</title>
+  </programme>
+  <programme start="20201102020000 -0600" stop="20201102023000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Dolce Vita</title>
+  </programme>
+  <programme start="20201102023000 -0600" stop="20201102030000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">De Moda con Ericka</title>
+  </programme>
+  <programme start="20201102030000 -0600" stop="20201102040000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Se dice de mi</title>
+  </programme>
+  <programme start="20201102040000 -0600" stop="20201102050000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Expediente Final</title>
+  </programme>
+  <programme start="20201102050000 -0600" stop="20201102053000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Finca de Hoy</title>
+  </programme>
+  <programme start="20201102053000 -0600" stop="20201102080000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Sábados Felices</title>
+  </programme>
+  <programme start="20201102080000 -0600" stop="20201102083000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">360 desde casa</title>
+  </programme>
+  <programme start="20201102083000 -0600" stop="20201102100000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20201102100000 -0600" stop="20201102110000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Expediente Final</title>
+  </programme>
+  <programme start="20201102123000 -0600" stop="20201102133000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201102133000 -0600" stop="20201102143000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Los Informantes</title>
+  </programme>
+  <programme start="20201102143000 -0600" stop="20201102153000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Se dice de mi</title>
+  </programme>
+  <programme start="20201102173000 -0600" stop="20201102180000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">360 desde casa</title>
+  </programme>
+  <programme start="20201102180000 -0600" stop="20201102190000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Séptimo Día</title>
+  </programme>
+  <programme start="20201102223000 -0600" stop="20201102230000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Las mujeres de mi tierra</title>
+  </programme>
+  <programme start="20201102230000 -0600" stop="20201102233000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Testigo Directo</title>
+  </programme>
+  <programme start="20201103020000 -0600" stop="20201103030000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">The Suso's show</title>
+  </programme>
+  <programme start="20201103043000 -0600" stop="20201103050000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Testigo Directo</title>
+  </programme>
+  <programme start="20201103053000 -0600" stop="20201103093000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201103093000 -0600" stop="20201103110000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Día a día I</title>
+  </programme>
+  <programme start="20201103173000 -0600" stop="20201103180000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Travesía</title>
+  </programme>
+  <programme start="20201103180000 -0600" stop="20201103190000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Expediente Final</title>
+  </programme>
+  <programme start="20201103223000 -0600" stop="20201103230000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">América 360</title>
+  </programme>
+  <programme start="20201104020000 -0600" stop="20201104030000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Se dice de mi</title>
+  </programme>
+  <programme start="20201104043000 -0600" stop="20201104050000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Las mujeres de mi tierra</title>
+  </programme>
+  <programme start="20201104223000 -0600" stop="20201104230000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">360 desde casa</title>
+  </programme>
+  <programme start="20201029003000 -0600" stop="20201029013000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20201029013000 -0600" stop="20201029043000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20201029043000 -0600" stop="20201029053000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20201029053000 -0600" stop="20201029060000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20201029060000 -0600" stop="20201029080000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20201029080000 -0600" stop="20201029100000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20201029100000 -0600" stop="20201029110000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20201029110000 -0600" stop="20201029120000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20201029120000 -0600" stop="20201029123000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20201029123000 -0600" stop="20201029130000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Hola,¿qué hace</title>
+  </programme>
+  <programme start="20201029130000 -0600" stop="20201029140000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20201029140000 -0600" stop="20201029145000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20201029145000 -0600" stop="20201029150000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Tierra y Mar</title>
+  </programme>
+  <programme start="20201029150000 -0600" stop="20201029160000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20201029160000 -0600" stop="20201029163000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20201029163000 -0600" stop="20201029183000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20201029183000 -0600" stop="20201029190000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20201029190000 -0600" stop="20201029200000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20201029200000 -0600" stop="20201029210000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20201029210000 -0600" stop="20201029220000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20201029220000 -0600" stop="20201029230000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20201029230000 -0600" stop="20201030000000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20201030200000 -0600" stop="20201030210000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20201031013000 -0600" stop="20201031060000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20201031060000 -0600" stop="20201031063000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20201031063000 -0600" stop="20201031073000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20201031073000 -0600" stop="20201031080000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20201031080000 -0600" stop="20201031083000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20201031083000 -0600" stop="20201031090000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20201031090000 -0600" stop="20201031110000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20201031110000 -0600" stop="20201031120000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20201031120000 -0600" stop="20201031130000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20201031130000 -0600" stop="20201031140000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20201031140000 -0600" stop="20201031150000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20201031150000 -0600" stop="20201031173000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20201031173000 -0600" stop="20201031183000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20201031183000 -0600" stop="20201031190000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20201031190000 -0600" stop="20201031193000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20201031193000 -0600" stop="20201031200000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20201031200000 -0600" stop="20201031203000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20201031203000 -0600" stop="20201031213000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20201031213000 -0600" stop="20201031223000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Cortometraje</title>
+  </programme>
+  <programme start="20201031223000 -0600" stop="20201031233000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20201031233000 -0600" stop="20201101003000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20201101003000 -0600" stop="20201101013000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20201101013000 -0600" stop="20201101033000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20201101033000 -0600" stop="20201101040000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20201101040000 -0600" stop="20201101060000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20201101073000 -0600" stop="20201101080000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Misa</title>
+  </programme>
+  <programme start="20201101190000 -0600" stop="20201101200000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Telediario Dominical</title>
+  </programme>
+  <programme start="20201101200000 -0600" stop="20201101210000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20201101210000 -0600" stop="20201101213000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20201101213000 -0600" stop="20201101220000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">América ahora</title>
+  </programme>
+  <programme start="20201101220000 -0600" stop="20201101233000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Cortometraje</title>
+  </programme>
+  <programme start="20201101233000 -0600" stop="20201102003000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20201102040000 -0600" stop="20201102043000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20201029003000 -0600" stop="20201029033000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Convirtiéndose en dama</title>
+  </programme>
+  <programme start="20201029033000 -0600" stop="20201029050000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">En boca de todos</title>
+  </programme>
+  <programme start="20201029050000 -0600" stop="20201029051600 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias: Primera edición</title>
+  </programme>
+  <programme start="20201029051600 -0600" stop="20201029070000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias: Primera edición</title>
+  </programme>
+  <programme start="20201029070000 -0600" stop="20201029094500 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias: Primera edición</title>
+  </programme>
+  <programme start="20201029094500 -0600" stop="20201029110000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Hoy</title>
+  </programme>
+  <programme start="20201029110000 -0600" stop="20201029120000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Aprendo en Casa</title>
+  </programme>
+  <programme start="20201029120000 -0600" stop="20201029130000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20201029130000 -0600" stop="20201029140000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201029140000 -0600" stop="20201029160000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">En boca de todos</title>
+  </programme>
+  <programme start="20201029160000 -0600" stop="20201029165000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Al fondo hay sitio</title>
+  </programme>
+  <programme start="20201029165000 -0600" stop="20201029172000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Te doy la vida</title>
+  </programme>
+  <programme start="20201029172000 -0600" stop="20201029185000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201029185000 -0600" stop="20201029203000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Esto es guerra</title>
+  </programme>
+  <programme start="20201029203000 -0600" stop="20201029213000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">De Vuelta Al Barrio</title>
+  </programme>
+  <programme start="20201029213000 -0600" stop="20201029223000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Mi vida sin tí</title>
+  </programme>
+  <programme start="20201029223000 -0600" stop="20201029233000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20201030070000 -0600" stop="20201030093000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias: Primera edición</title>
+  </programme>
+  <programme start="20201030093000 -0600" stop="20201030100000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Sanamente con el Dr. Elmer Huerta</title>
+  </programme>
+  <programme start="20201030100000 -0600" stop="20201030110000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Hoy</title>
+  </programme>
+  <programme start="20201030110000 -0600" stop="20201030120000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Aprendo en Casa</title>
+  </programme>
+  <programme start="20201030120000 -0600" stop="20201030130000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20201030130000 -0600" stop="20201030140000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201030140000 -0600" stop="20201030160000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">En boca de todos</title>
+  </programme>
+  <programme start="20201030160000 -0600" stop="20201030165000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Al fondo hay sitio</title>
+  </programme>
+  <programme start="20201030165000 -0600" stop="20201030172000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Te doy la vida</title>
+  </programme>
+  <programme start="20201030172000 -0600" stop="20201030185000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201030185000 -0600" stop="20201030203000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Esto es guerra</title>
+  </programme>
+  <programme start="20201030203000 -0600" stop="20201030213000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">De Vuelta Al Barrio</title>
+  </programme>
+  <programme start="20201030213000 -0600" stop="20201030223000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Mi vida sin tí</title>
+  </programme>
+  <programme start="20201030223000 -0600" stop="20201030233000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20201030233000 -0600" stop="20201031003000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">La banda del chino</title>
+  </programme>
+  <programme start="20201031033000 -0600" stop="20201031040000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Tomad y Comed</title>
+  </programme>
+  <programme start="20201031040000 -0600" stop="20201031053000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">En boca de todos</title>
+  </programme>
+  <programme start="20201031053000 -0600" stop="20201031060000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">En boca de todos</title>
+  </programme>
+  <programme start="20201031060000 -0600" stop="20201031070000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20201031070000 -0600" stop="20201031090000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20201031090000 -0600" stop="20201031110000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Estás en todas</title>
+  </programme>
+  <programme start="20201031110000 -0600" stop="20201031120000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Cinescape</title>
+  </programme>
+  <programme start="20201031120000 -0600" stop="20201031130000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">El chapulin colorado animado</title>
+  </programme>
+  <programme start="20201031130000 -0600" stop="20201031140000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Emprendedor, ponte las pilas</title>
+  </programme>
+  <programme start="20201031140000 -0600" stop="20201031153000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">El chavo animado</title>
+  </programme>
+  <programme start="20201031153000 -0600" stop="20201031170000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">El perrodrino</title>
+  </programme>
+  <programme start="20201031170000 -0600" stop="20201031183000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Las hermanas vampiro 3 Viaje a Transilvania</title>
+  </programme>
+  <programme start="20201031183000 -0600" stop="20201031200000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201031200000 -0600" stop="20201031200500 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">La Tinka</title>
+  </programme>
+  <programme start="20201031200500 -0600" stop="20201031203000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201031203000 -0600" stop="20201031223000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">El reventonazo de la Chola</title>
+  </programme>
+  <programme start="20201031223000 -0600" stop="20201031235000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Teatro Desde el Teatro</title>
+  </programme>
+  <programme start="20201031235000 -0600" stop="20201101014000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">El Conjuro</title>
+  </programme>
+  <programme start="20201101235000 -0600" stop="20201102014000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">El Conjuro</title>
+  </programme>
+  <programme start="20201102014000 -0600" stop="20201102031000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Mil palabras</title>
+  </programme>
+  <programme start="20201102031000 -0600" stop="20201102043000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20201102043000 -0600" stop="20201102053000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Estás en todas</title>
+  </programme>
+  <programme start="20201102053000 -0600" stop="20201102060000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Estás en todas</title>
+  </programme>
+  <programme start="20201102060000 -0600" stop="20201102083000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20201102083000 -0600" stop="20201102110000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Domingo al Día</title>
+  </programme>
+  <programme start="20201102110000 -0600" stop="20201102120000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">TEC</title>
+  </programme>
+  <programme start="20201102120000 -0600" stop="20201102130000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">El chapulin colorado animado</title>
+  </programme>
+  <programme start="20201102130000 -0600" stop="20201102140000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Emprendedor, ponte las pilas</title>
+  </programme>
+  <programme start="20201102140000 -0600" stop="20201102153000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">El chavo animado</title>
+  </programme>
+  <programme start="20201102153000 -0600" stop="20201102170000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">El poder del talismán</title>
+  </programme>
+  <programme start="20201102170000 -0600" stop="20201102190000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201102190000 -0600" stop="20201102200000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Mi mamá cocina mejor que la tuya</title>
+  </programme>
+  <programme start="20201102200000 -0600" stop="20201102223000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Cuarto Poder</title>
+  </programme>
+  <programme start="20201102223000 -0600" stop="20201103000000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Fútbol en América</title>
+  </programme>
+  <programme start="20201103000000 -0600" stop="20201103023000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">O besas o no besas</title>
+  </programme>
+  <programme start="20201103023000 -0600" stop="20201103040000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Viernes 13</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103050000 -0600" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Cuarto Poder</title>
+  </programme>
+  <programme start="20201029010000 -0600" stop="20201029020000 -0600" channel="Canal ATV ">
+    <title lang="es">NCIS Criminologia Naval Los Angeles</title>
+  </programme>
+  <programme start="20201029020000 -0600" stop="20201029030000 -0600" channel="Canal ATV ">
+    <title lang="es">Medium</title>
+  </programme>
+  <programme start="20201029030000 -0600" stop="20201029040000 -0600" channel="Canal ATV ">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20201029040000 -0600" stop="20201029050000 -0600" channel="Canal ATV ">
+    <title lang="es">Laura</title>
+  </programme>
+  <programme start="20201029050000 -0600" stop="20201029060000 -0600" channel="Canal ATV ">
+    <title lang="es">Canto Andino</title>
+  </programme>
+  <programme start="20201029060000 -0600" stop="20201029100000 -0600" channel="Canal ATV ">
+    <title lang="es">ATV Noticias - Edicion Matinal</title>
+  </programme>
+  <programme start="20201029100000 -0600" stop="20201029110000 -0600" channel="Canal ATV ">
+    <title lang="es">La tercera en discordia</title>
+  </programme>
+  <programme start="20201029110000 -0600" stop="20201029120000 -0600" channel="Canal ATV ">
+    <title lang="es">Aprendo en Casa</title>
+  </programme>
+  <programme start="20201029120000 -0600" stop="20201029130000 -0600" channel="Canal ATV ">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20201029130000 -0600" stop="20201029140000 -0600" channel="Canal ATV ">
+    <title lang="es">La Usurpadora</title>
+  </programme>
+  <programme start="20201029140000 -0600" stop="20201029153000 -0600" channel="Canal ATV ">
+    <title lang="es">Esposa joven</title>
+  </programme>
+  <programme start="20201029153000 -0600" stop="20201029163000 -0600" channel="Canal ATV ">
+    <title lang="es">Fuego en la sangre</title>
+  </programme>
+  <programme start="20201029163000 -0600" stop="20201029180000 -0600" channel="Canal ATV ">
+    <title lang="es">Mañana es para Siempre</title>
+  </programme>
+  <programme start="20201029180000 -0600" stop="20201029190000 -0600" channel="Canal ATV ">
+    <title lang="es">La gata</title>
+  </programme>
+  <programme start="20201029190000 -0600" stop="20201029203000 -0600" channel="Canal ATV ">
+    <title lang="es">ATV Noticias</title>
+  </programme>
+  <programme start="20201029203000 -0600" stop="20201029214500 -0600" channel="Canal ATV ">
+    <title lang="es">Andrea</title>
+  </programme>
+  <programme start="20201029214500 -0600" stop="20201029230000 -0600" channel="Canal ATV ">
+    <title lang="es">Magaly</title>
+  </programme>
+  <programme start="20201029230000 -0600" stop="20201030000000 -0600" channel="Canal ATV ">
+    <title lang="es">ATV Noticias</title>
+  </programme>
+  <programme start="20201030203000 -0600" stop="20201030214500 -0600" channel="Canal ATV ">
+    <title lang="es">Andrea</title>
+  </programme>
+  <programme start="20201031010000 -0600" stop="20201031020000 -0600" channel="Canal ATV ">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20201031020000 -0600" stop="20201031030000 -0600" channel="Canal ATV ">
+    <title lang="es">Escorpión</title>
+  </programme>
+  <programme start="20201031030000 -0600" stop="20201031040000 -0600" channel="Canal ATV ">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20201031040000 -0600" stop="20201031050000 -0600" channel="Canal ATV ">
+    <title lang="es">C.S.I. Las Vegas</title>
+  </programme>
+  <programme start="20201031050000 -0600" stop="20201031070000 -0600" channel="Canal ATV ">
+    <title lang="es">Canto Andino</title>
+  </programme>
+  <programme start="20201031070000 -0600" stop="20201031073000 -0600" channel="Canal ATV ">
+    <title lang="es">Lab Rats Fuerza Elite</title>
+  </programme>
+  <programme start="20201031073000 -0600" stop="20201031080000 -0600" channel="Canal ATV ">
+    <title lang="es">Mech-X4</title>
+  </programme>
+  <programme start="20201031080000 -0600" stop="20201031090000 -0600" channel="Canal ATV ">
+    <title lang="es">America's funniest videos</title>
+  </programme>
+  <programme start="20201031090000 -0600" stop="20201031100000 -0600" channel="Canal ATV ">
+    <title lang="es">Desafío Extremo</title>
+  </programme>
+  <programme start="20201031100000 -0600" stop="20201031110000 -0600" channel="Canal ATV ">
+    <title lang="es">Marvel Agentes de S.H.I.E.L.D</title>
+  </programme>
+  <programme start="20201031110000 -0600" stop="20201031120000 -0600" channel="Canal ATV ">
+    <title lang="es">Arrow</title>
+  </programme>
+  <programme start="20201031120000 -0600" stop="20201031130000 -0600" channel="Canal ATV ">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20201031130000 -0600" stop="20201031140000 -0600" channel="Canal ATV ">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20201031140000 -0600" stop="20201031150000 -0600" channel="Canal ATV ">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20201031150000 -0600" stop="20201031160000 -0600" channel="Canal ATV ">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20201031160000 -0600" stop="20201031180000 -0600" channel="Canal ATV ">
+    <title lang="es">Los Picapiedras</title>
+  </programme>
+  <programme start="20201031180000 -0600" stop="20201031190000 -0600" channel="Canal ATV ">
+    <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20201031190000 -0600" stop="20201031200000 -0600" channel="Canal ATV ">
+    <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20201031200000 -0600" stop="20201031220000 -0600" channel="Canal ATV ">
+    <title lang="es">Titanes del Pacífico</title>
+  </programme>
+  <programme start="20201031220000 -0600" stop="20201031230000 -0600" channel="Canal ATV ">
+    <title lang="es">El Señor de los Cielos</title>
+  </programme>
+  <programme start="20201031230000 -0600" stop="20201101000000 -0600" channel="Canal ATV ">
+    <title lang="es">Las Muñecas de la Mafia 2</title>
+  </programme>
+  <programme start="20201101000000 -0600" stop="20201101010000 -0600" channel="Canal ATV ">
+    <title lang="es">Templarios</title>
+  </programme>
+  <programme start="20201101140000 -0600" stop="20201101150000 -0600" channel="Canal ATV ">
+    <title lang="es">De Película</title>
+  </programme>
+  <programme start="20201101150000 -0600" stop="20201101163000 -0600" channel="Canal ATV ">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20201101163000 -0600" stop="20201101173000 -0600" channel="Canal ATV ">
+    <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20201101173000 -0600" stop="20201101190000 -0600" channel="Canal ATV ">
+    <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20201101190000 -0600" stop="20201101203000 -0600" channel="Canal ATV ">
+    <title lang="es">Vacas Vaqueras</title>
+  </programme>
+  <programme start="20201101203000 -0600" stop="20201101220000 -0600" channel="Canal ATV ">
+    <title lang="es">Nunca Más</title>
+  </programme>
+  <programme start="20201101220000 -0600" stop="20201102000000 -0600" channel="Canal ATV ">
+    <title lang="es">Dia D</title>
+  </programme>
+  <programme start="20201102000000 -0600" stop="20201102010000 -0600" channel="Canal ATV ">
+    <title lang="es">De Película</title>
+  </programme>
+  <programme start="20201102163000 -0600" stop="20201102180000 -0600" channel="Canal ATV ">
+    <title lang="es">La reina del flow</title>
+  </programme>
+  <programme start="20201102180000 -0600" stop="20201102190000 -0600" channel="Canal ATV ">
+    <title lang="es">Lo que la Vida me Robó</title>
+  </programme>
+  <programme start="20201029003000 -0600" stop="20201029033000 -0600" channel="Canal City TV">
+    <title lang="es">Arriba Bogotá</title>
+  </programme>
+  <programme start="20201029033000 -0600" stop="20201029040000 -0600" channel="Canal City TV">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201029040000 -0600" stop="20201029053000 -0600" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20201029053000 -0600" stop="20201029093000 -0600" channel="Canal City TV">
+    <title lang="es">Arriba Bogotá</title>
+  </programme>
+  <programme start="20201029093000 -0600" stop="20201029103000 -0600" channel="Canal City TV">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20201029103000 -0600" stop="20201029113000 -0600" channel="Canal City TV">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20201029113000 -0600" stop="20201029130000 -0600" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20201029130000 -0600" stop="20201029143000 -0600" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20201029143000 -0600" stop="20201029153000 -0600" channel="Canal City TV">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20201029153000 -0600" stop="20201029163000 -0600" channel="Canal City TV">
+    <title lang="es">Los Picapiedra</title>
+  </programme>
+  <programme start="20201029163000 -0600" stop="20201029170000 -0600" channel="Canal City TV">
+    <title lang="es">Centella</title>
+  </programme>
+  <programme start="20201029170000 -0600" stop="20201029180000 -0600" channel="Canal City TV">
+    <title lang="es">Años maravillosos</title>
+  </programme>
+  <programme start="20201029180000 -0600" stop="20201029190000 -0600" channel="Canal City TV">
+    <title lang="es">Presidencia de la República</title>
+  </programme>
+  <programme start="20201029190000 -0600" stop="20201029200000 -0600" channel="Canal City TV">
+    <title lang="es">La Hija del Jardinero</title>
+  </programme>
+  <programme start="20201029200000 -0600" stop="20201029213000 -0600" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20201029213000 -0600" stop="20201029223000 -0600" channel="Canal City TV">
+    <title lang="es">C.S.I</title>
+  </programme>
+  <programme start="20201029223000 -0600" stop="20201030000000 -0600" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20201030200000 -0600" stop="20201030213000 -0600" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20201030213000 -0600" stop="20201030220000 -0600" channel="Canal City TV">
+    <title lang="es">Hashtag</title>
+  </programme>
+  <programme start="20201030220000 -0600" stop="20201030230000 -0600" channel="Canal City TV">
+    <title lang="es">C.S.I</title>
+  </programme>
+  <programme start="20201030230000 -0600" stop="20201031000000 -0600" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20201031033000 -0600" stop="20201031043000 -0600" channel="Canal City TV">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201031043000 -0600" stop="20201031060000 -0600" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20201031060000 -0600" stop="20201031073000 -0600" channel="Canal City TV">
+    <title lang="es">Arriba Bogotá</title>
+  </programme>
+  <programme start="20201031073000 -0600" stop="20201031120000 -0600" channel="Canal City TV">
+    <title lang="es">Bravíssimo</title>
+  </programme>
+  <programme start="20201031120000 -0600" stop="20201031130000 -0600" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20201031130000 -0600" stop="20201031140000 -0600" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20201031140000 -0600" stop="20201031153000 -0600" channel="Canal City TV">
+    <title lang="es">Doraemon, el gato cósmico</title>
+  </programme>
+  <programme start="20201031153000 -0600" stop="20201031163000 -0600" channel="Canal City TV">
+    <title lang="es">El Pájaro Loco</title>
+  </programme>
+  <programme start="20201031163000 -0600" stop="20201031170000 -0600" channel="Canal City TV">
+    <title lang="es">Los Picapiedra</title>
+  </programme>
+  <programme start="20201031170000 -0600" stop="20201031173000 -0600" channel="Canal City TV">
+    <title lang="es">Años maravillosos</title>
+  </programme>
+  <programme start="20201031173000 -0600" stop="20201031183000 -0600" channel="Canal City TV">
+    <title lang="es">Lucha libre</title>
+  </programme>
+  <programme start="20201031183000 -0600" stop="20201031190000 -0600" channel="Canal City TV">
+    <title lang="es">Los Picapiedra</title>
+  </programme>
+  <programme start="20201031190000 -0600" stop="20201031193000 -0600" channel="Canal City TV">
+    <title lang="es">Famosos con City</title>
+  </programme>
+  <programme start="20201031193000 -0600" stop="20201031200000 -0600" channel="Canal City TV">
+    <title lang="es">Noctámbulo</title>
+  </programme>
+  <programme start="20201031200000 -0600" stop="20201031210000 -0600" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20201031210000 -0600" stop="20201031213000 -0600" channel="Canal City TV">
+    <title lang="es">El Rollo de Fili *Sta B</title>
+  </programme>
+  <programme start="20201031213000 -0600" stop="20201031220000 -0600" channel="Canal City TV">
+    <title lang="es">Echadas pa'lante</title>
+  </programme>
+  <programme start="20201031220000 -0600" stop="20201031223000 -0600" channel="Canal City TV">
+    <title lang="es">Noticiero Senado / Cámara</title>
+  </programme>
+  <programme start="20201031223000 -0600" stop="20201031233000 -0600" channel="Canal City TV">
+    <title lang="es">Orquesta filarmónica de Bogotá</title>
+  </programme>
+  <programme start="20201031233000 -0600" stop="20201101000000 -0600" channel="Canal City TV">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20201101000000 -0600" stop="20201101030000 -0600" channel="Canal City TV">
+    <title lang="es">Bravíssimo</title>
+  </programme>
+  <programme start="20201101030000 -0600" stop="20201101043000 -0600" channel="Canal City TV">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201101043000 -0600" stop="20201101053000 -0600" channel="Canal City TV">
+    <title lang="es">Los del Barrio</title>
+  </programme>
+  <programme start="20201101053000 -0600" stop="20201101060000 -0600" channel="Canal City TV">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20201101060000 -0600" stop="20201101063000 -0600" channel="Canal City TV">
+    <title lang="es">Noctámbulo</title>
+  </programme>
+  <programme start="20201101063000 -0600" stop="20201101073000 -0600" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20201101073000 -0600" stop="20201101120000 -0600" channel="Canal City TV">
+    <title lang="es">Bravíssimo</title>
+  </programme>
+  <programme start="20201101120000 -0600" stop="20201101130000 -0600" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20201101130000 -0600" stop="20201101140000 -0600" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20201101140000 -0600" stop="20201101143000 -0600" channel="Canal City TV">
+    <title lang="es">Defensor del televidente</title>
+  </programme>
+  <programme start="20201101143000 -0600" stop="20201101153000 -0600" channel="Canal City TV">
+    <title lang="es">Doraemon, el gato cósmico</title>
+  </programme>
+  <programme start="20201101170000 -0600" stop="20201101180000 -0600" channel="Canal City TV">
+    <title lang="es">Homenaje Los Olivos</title>
+  </programme>
+  <programme start="20201101180000 -0600" stop="20201101183000 -0600" channel="Canal City TV">
+    <title lang="es">Los Picapiedra</title>
+  </programme>
+  <programme start="20201101183000 -0600" stop="20201101190000 -0600" channel="Canal City TV">
+    <title lang="es">Presidencia de la República</title>
+  </programme>
+  <programme start="20201101190000 -0600" stop="20201101200000 -0600" channel="Canal City TV">
+    <title lang="es">Los Picapiedra</title>
+  </programme>
+  <programme start="20201101200000 -0600" stop="20201101210000 -0600" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20201101210000 -0600" stop="20201101213000 -0600" channel="Canal City TV">
+    <title lang="es">Hashtag</title>
+  </programme>
+  <programme start="20201101213000 -0600" stop="20201101223000 -0600" channel="Canal City TV">
+    <title lang="es">C.S.I</title>
+  </programme>
+  <programme start="20201101223000 -0600" stop="20201101233000 -0600" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20201102000000 -0600" stop="20201102033000 -0600" channel="Canal City TV">
+    <title lang="es">Bravíssimo</title>
+  </programme>
+  <programme start="20201102033000 -0600" stop="20201102043000 -0600" channel="Canal City TV">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20201102043000 -0600" stop="20201102053000 -0600" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20201102053000 -0600" stop="20201102093000 -0600" channel="Canal City TV">
+    <title lang="es">Arriba Bogotá</title>
+  </programme>
+  <programme start="20201102093000 -0600" stop="20201102113000 -0600" channel="Canal City TV">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20201102143000 -0600" stop="20201102153000 -0600" channel="Canal City TV">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20201102153000 -0600" stop="20201102170000 -0600" channel="Canal City TV">
+    <title lang="es">La Intrusa</title>
+  </programme>
+  <programme start="20201102170000 -0600" stop="20201102180000 -0600" channel="Canal City TV">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20201102180000 -0600" stop="20201102190000 -0600" channel="Canal City TV">
+    <title lang="es">Será Anunciado</title>
+  </programme>
+  <programme start="20201029001500 -0600" stop="20201029041500 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Nutrisa</title>
+  </programme>
+  <programme start="20201029041500 -0600" stop="20201029042500 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">El show de la risa</title>
+  </programme>
+  <programme start="20201029042500 -0600" stop="20201029051500 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Fútbol Grande</title>
+  </programme>
+  <programme start="20201029051500 -0600" stop="20201029063000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Buenos días Perú</title>
+  </programme>
+  <programme start="20201029063000 -0600" stop="20201029093000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Buenos días Perú</title>
+  </programme>
+  <programme start="20201029093000 -0600" stop="20201029103000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Quality Products</title>
+  </programme>
+  <programme start="20201029103000 -0600" stop="20201029110000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Los Mejores Documentales</title>
+  </programme>
+  <programme start="20201029110000 -0600" stop="20201029120000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Aprendo en Casa</title>
+  </programme>
+  <programme start="20201029120000 -0600" stop="20201029125500 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">En exclusiva con Karen Schwarz</title>
+  </programme>
+  <programme start="20201029125500 -0600" stop="20201029150000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201029150000 -0600" stop="20201029160000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Blanco, color de amor</title>
+  </programme>
+  <programme start="20201029160000 -0600" stop="20201029170000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Esmeralda</title>
+  </programme>
+  <programme start="20201029170000 -0600" stop="20201029180000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Marido en alquiler</title>
+  </programme>
+  <programme start="20201029180000 -0600" stop="20201029190000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Amor de familia</title>
+  </programme>
+  <programme start="20201029190000 -0600" stop="20201029200000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Un amor sin limites</title>
+  </programme>
+  <programme start="20201029200000 -0600" stop="20201029210000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Los Mejores Documentales</title>
+  </programme>
+  <programme start="20201029210000 -0600" stop="20201029230000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201029230000 -0600" stop="20201030000000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">La gran sangre</title>
+  </programme>
+  <programme start="20201030200000 -0600" stop="20201030210000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Los Mejores Documentales</title>
+  </programme>
+  <programme start="20201031000000 -0600" stop="20201031003000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">El show de la risa</title>
+  </programme>
+  <programme start="20201031003000 -0600" stop="20201031043000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Nutrisa</title>
+  </programme>
+  <programme start="20201031043000 -0600" stop="20201031050000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Esposos pero tramposos</title>
+  </programme>
+  <programme start="20201031050000 -0600" stop="20201031053000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Los tres cantineros</title>
+  </programme>
+  <programme start="20201031053000 -0600" stop="20201031070000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Encantos del Perú</title>
+  </programme>
+  <programme start="20201031070000 -0600" stop="20201031073000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20201031073000 -0600" stop="20201031080000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Especial Coronavirus</title>
+  </programme>
+  <programme start="20201031080000 -0600" stop="20201031083000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Te chino el oriental</title>
+  </programme>
+  <programme start="20201031083000 -0600" stop="20201031090000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Visión futuro</title>
+  </programme>
+  <programme start="20201031090000 -0600" stop="20201031093000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Patrimonio mundial</title>
+  </programme>
+  <programme start="20201031093000 -0600" stop="20201031100000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Los portales</title>
+  </programme>
+  <programme start="20201031100000 -0600" stop="20201031110000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Petramas</title>
+  </programme>
+  <programme start="20201031110000 -0600" stop="20201031113000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20201031113000 -0600" stop="20201031120000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20201031120000 -0600" stop="20201031130000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Natacha</title>
+  </programme>
+  <programme start="20201031130000 -0600" stop="20201031165000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">1000 oficios</title>
+  </programme>
+  <programme start="20201031165000 -0600" stop="20201031210000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Porque hoy es Sábado con Andrés</title>
+  </programme>
+  <programme start="20201031210000 -0600" stop="20201031220000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201031220000 -0600" stop="20201101000000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Al sexto día</title>
+  </programme>
+  <programme start="20201101000000 -0600" stop="20201101001200 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Al sexto día</title>
+  </programme>
+  <programme start="20201101001200 -0600" stop="20201101010000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Los ambulantes de la risa</title>
+  </programme>
+  <programme start="20201101010000 -0600" stop="20201101050000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Nutrisa</title>
+  </programme>
+  <programme start="20201101070000 -0600" stop="20201101073000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">¡Escápate</title>
+  </programme>
+  <programme start="20201101073000 -0600" stop="20201101080000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Los portales</title>
+  </programme>
+  <programme start="20201101080000 -0600" stop="20201101100000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">El dominical de panamericana</title>
+  </programme>
+  <programme start="20201101100000 -0600" stop="20201101110000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Lo mejor de risas y salsa</title>
+  </programme>
+  <programme start="20201101110000 -0600" stop="20201101120000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Los portales</title>
+  </programme>
+  <programme start="20201101120000 -0600" stop="20201101130000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Vida y hogar</title>
+  </programme>
+  <programme start="20201101130000 -0600" stop="20201101133000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Los portales</title>
+  </programme>
+  <programme start="20201101133000 -0600" stop="20201101140000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Lo mejor de risas y salsa</title>
+  </programme>
+  <programme start="20201101140000 -0600" stop="20201101163000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Tierra Indomable</title>
+  </programme>
+  <programme start="20201101163000 -0600" stop="20201101183000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">El dominical de panamericana</title>
+  </programme>
+  <programme start="20201101183000 -0600" stop="20201101194500 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Teledeportes</title>
+  </programme>
+  <programme start="20201101194500 -0600" stop="20201101220000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Panorama</title>
+  </programme>
+  <programme start="20201101220000 -0600" stop="20201102000000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Al sexto día</title>
+  </programme>
+  <programme start="20201102001200 -0600" stop="20201102001500 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Los ambulantes de la risa</title>
+  </programme>
+  <programme start="20201102001500 -0600" stop="20201102041500 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Nutrisa</title>
+  </programme>
+  <programme start="20201102041500 -0600" stop="20201102044500 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">El Dr jeringa</title>
+  </programme>
+  <programme start="20201102044500 -0600" stop="20201102051500 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Lo mejor de DW</title>
+  </programme>
+  <programme start="20201102051500 -0600" stop="20201102063000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Buenos días Perú</title>
+  </programme>
+  <programme start="20201102063000 -0600" stop="20201102093000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Buenos días Perú</title>
+  </programme>
+  <programme start="20201102093000 -0600" stop="20201102103000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Quality Products</title>
+  </programme>
+  <programme start="20201102103000 -0600" stop="20201102110000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Tiempo para aprender</title>
+  </programme>
+  <programme start="20201102110000 -0600" stop="20201102120000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Aprendo en Casa</title>
+  </programme>
+  <programme start="20201102120000 -0600" stop="20201102125500 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">En exclusiva con Karen Schwarz</title>
+  </programme>
+  <programme start="20201102125500 -0600" stop="20201102150000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20201102150000 -0600" stop="20201102160000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Blanco, color de amor</title>
+  </programme>
+  <programme start="20201102160000 -0600" stop="20201102170000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">La Hija del Mariachi</title>
+  </programme>
+  <programme start="20201102170000 -0600" stop="20201102180000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Marido en alquiler</title>
+  </programme>
+  <programme start="20201102180000 -0600" stop="20201102190000 -0600" channel="Canal Panamericana Televisión ">
+    <title lang="es">Amor de familia</title>
+  </programme>
+  <programme start="20201029010000 -0600" stop="20201029050000 -0600" channel="Canal Perú Mágico">
+    <title lang="es">Programación Perú Mágico</title>
+  </programme>
+  <programme start="20201029050000 -0600" stop="20201029090000 -0600" channel="Canal Perú Mágico">
+    <title lang="es">Programación Perú Mágico</title>
+  </programme>
+  <programme start="20201029090000 -0600" stop="20201029130000 -0600" channel="Canal Perú Mágico">
+    <title lang="es">Programación Perú Mágico</title>
+  </programme>
+  <programme start="20201029130000 -0600" stop="20201029170000 -0600" channel="Canal Perú Mágico">
+    <title lang="es">Programación Perú Mágico</title>
+  </programme>
+  <programme start="20201029170000 -0600" stop="20201029210000 -0600" channel="Canal Perú Mágico">
+    <title lang="es">Programación Perú Mágico</title>
+  </programme>
+  <programme start="20201030170000 -0600" stop="20201030210000 -0600" channel="Canal Perú Mágico">
+    <title lang="es">Programación Perú Mágico</title>
+  </programme>
+  <programme start="20201030210000 -0600" stop="20201031020000 -0600" channel="Canal Perú Mágico">
+    <title lang="es">Programación Perú Mágico</title>
+  </programme>
+  <programme start="20201031020000 -0600" stop="20201031060000 -0600" channel="Canal Perú Mágico">
+    <title lang="es">Programación Perú Mágico</title>
+  </programme>
+  <programme start="20201031060000 -0600" stop="20201031100000 -0600" channel="Canal Perú Mágico">
+    <title lang="es">Programación Perú Mágico</title>
+  </programme>
+  <programme start="20201031100000 -0600" stop="20201031140000 -0600" channel="Canal Perú Mágico">
+    <title lang="es">Programación Perú Mágico</title>
+  </programme>
+  <programme start="20201031140000 -0600" stop="20201031180000 -0600" channel="Canal Perú Mágico">
+    <title lang="es">Programación Perú Mágico</title>
+  </programme>
+  <programme start="20201031180000 -0600" stop="20201031220000 -0600" channel="Canal Perú Mágico">
+    <title lang="es">Programación Perú Mágico</title>
+  </programme>
+  <programme start="20201031220000 -0600" stop="20201101020000 -0600" channel="Canal Perú Mágico">
+    <title lang="es">Programación Perú Mágico</title>
+  </programme>
+  <programme start="20201029010000 -0600" stop="20201029060000 -0600" channel="Canal Willax TV">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20201029060000 -0600" stop="20201029100000 -0600" channel="Canal Willax TV">
+    <title lang="es">PBO Digital</title>
+  </programme>
+  <programme start="20201029100000 -0600" stop="20201029110000 -0600" channel="Canal Willax TV">
+    <title lang="es">El Dr. Borda (Estreno)</title>
+  </programme>
+  <programme start="20201029110000 -0600" stop="20201029120000 -0600" channel="Canal Willax TV">
+    <title lang="es">Nutrisa</title>
+  </programme>
+  <programme start="20201029120000 -0600" stop="20201029133000 -0600" channel="Canal Willax TV">
+    <title lang="es">Dulce venganza</title>
+  </programme>
+  <programme start="20201029133000 -0600" stop="20201029153000 -0600" channel="Canal Willax TV">
+    <title lang="es">Amor y Fuego</title>
+  </programme>
+  <programme start="20201029153000 -0600" stop="20201029163000 -0600" channel="Canal Willax TV">
+    <title lang="es">Un dia en el mall</title>
+  </programme>
+  <programme start="20201029163000 -0600" stop="20201029174000 -0600" channel="Canal Willax TV">
+    <title lang="es">Eres mi Estrella</title>
+  </programme>
+  <programme start="20201029174000 -0600" stop="20201029185000 -0600" channel="Canal Willax TV">
+    <title lang="es">El Guardián: El Grandioso Dios Solitario</title>
+  </programme>
+  <programme start="20201029185000 -0600" stop="20201029195000 -0600" channel="Canal Willax TV">
+    <title lang="es">Primer Plano</title>
+  </programme>
+  <programme start="20201029195000 -0600" stop="20201029210000 -0600" channel="Canal Willax TV">
+    <title lang="es">Milagros Leiva, entrevista</title>
+  </programme>
+  <programme start="20201029210000 -0600" stop="20201029220000 -0600" channel="Canal Willax TV">
+    <title lang="es">Primer Plano</title>
+  </programme>
+  <programme start="20201029220000 -0600" stop="20201029220500 -0600" channel="Canal Willax TV">
+    <title lang="es">Camotillo, el Tinterillo</title>
+  </programme>
+  <programme start="20201029220500 -0600" stop="20201029230500 -0600" channel="Canal Willax TV">
+    <title lang="es">Combutters</title>
+  </programme>
+  <programme start="20201029230500 -0600" stop="20201030000000 -0600" channel="Canal Willax TV">
+    <title lang="es">Bayly</title>
+  </programme>
+  <programme start="20201030195000 -0600" stop="20201030210000 -0600" channel="Canal Willax TV">
+    <title lang="es">Milagros Leiva, entrevista</title>
+  </programme>
+  <programme start="20201031120000 -0600" stop="20201031130000 -0600" channel="Canal Willax TV">
+    <title lang="es">Mundo tuerca</title>
+  </programme>
+  <programme start="20201031130000 -0600" stop="20201031150000 -0600" channel="Canal Willax TV">
+    <title lang="es">Película Animada</title>
+  </programme>
+  <programme start="20201031150000 -0600" stop="20201031170000 -0600" channel="Canal Willax TV">
+    <title lang="es">El Especial de Kpop Music Core</title>
+  </programme>
+  <programme start="20201031170000 -0600" stop="20201031180000 -0600" channel="Canal Willax TV">
+    <title lang="es">Fullmetal Alchemist</title>
+  </programme>
+  <programme start="20201031180000 -0600" stop="20201031190000 -0600" channel="Canal Willax TV">
+    <title lang="es">Ranma 1/2</title>
+  </programme>
+  <programme start="20201031190000 -0600" stop="20201031210000 -0600" channel="Canal Willax TV">
+    <title lang="es">Butaca vip</title>
+  </programme>
+  <programme start="20201031210000 -0600" stop="20201031220000 -0600" channel="Canal Willax TV">
+    <title lang="es">Crónicas de impacto</title>
+  </programme>
+  <programme start="20201031220000 -0600" stop="20201101000000 -0600" channel="Canal Willax TV">
+    <title lang="es">La Vacuna Del Humor</title>
+  </programme>
+  <programme start="20201101060000 -0600" stop="20201101070000 -0600" channel="Canal Willax TV">
+    <title lang="es">Farik Grippa ¡Que Suene</title>
+  </programme>
+  <programme start="20201101070000 -0600" stop="20201101080000 -0600" channel="Canal Willax TV">
+    <title lang="es">Nutrisa</title>
+  </programme>
+  <programme start="20201101080000 -0600" stop="20201101090000 -0600" channel="Canal Willax TV">
+    <title lang="es">Mundo tuerca</title>
+  </programme>
+  <programme start="20201101090000 -0600" stop="20201101110000 -0600" channel="Canal Willax TV">
+    <title lang="es">Película Religiosa</title>
+  </programme>
+  <programme start="20201101110000 -0600" stop="20201101120000 -0600" channel="Canal Willax TV">
+    <title lang="es">La santa misa</title>
+  </programme>
+  <programme start="20201101120000 -0600" stop="20201101130000 -0600" channel="Canal Willax TV">
+    <title lang="es">Nutrisa</title>
+  </programme>
+  <programme start="20201101130000 -0600" stop="20201101140000 -0600" channel="Canal Willax TV">
+    <title lang="es">Pierangeli en Casa</title>
+  </programme>
+  <programme start="20201101140000 -0600" stop="20201101170000 -0600" channel="Canal Willax TV">
+    <title lang="es">El Hombre Inocente</title>
+  </programme>
+  <programme start="20201101170000 -0600" stop="20201101190000 -0600" channel="Canal Willax TV">
+    <title lang="es">Cine Willax</title>
+  </programme>
+  <programme start="20201101190000 -0600" stop="20201101200000 -0600" channel="Canal Willax TV">
+    <title lang="es">Vida y Milagros</title>
+  </programme>
+  <programme start="20201101200000 -0600" stop="20201101210000 -0600" channel="Canal Willax TV">
+    <title lang="es">Soluciones</title>
+  </programme>
+  <programme start="20201101210000 -0600" stop="20201101230000 -0600" channel="Canal Willax TV">
+    <title lang="es">Rey con Barba</title>
+  </programme>
+  <programme start="20201101230000 -0600" stop="20201101233000 -0600" channel="Canal Willax TV">
+    <title lang="es">Noche de Luna</title>
+  </programme>
+  <programme start="20201029005600 -0600" stop="20201029025900 -0600" channel="Canal Fox">
+    <title lang="es">Ghost rider</title>
+  </programme>
+  <programme start="20201029025900 -0600" stop="20201029032000 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201029032000 -0600" stop="20201029034300 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201029034300 -0600" stop="20201029052500 -0600" channel="Canal Fox">
+    <title lang="es">X-Men 3: La Batalla Final</title>
+  </programme>
+  <programme start="20201029052500 -0600" stop="20201029073500 -0600" channel="Canal Fox">
+    <title lang="es">Maze Runner: Prueba de fuego</title>
+  </programme>
+  <programme start="20201029073500 -0600" stop="20201029080000 -0600" channel="Canal Fox">
+    <title lang="es">Speechless</title>
+  </programme>
+  <programme start="20201029080000 -0600" stop="20201029084800 -0600" channel="Canal Fox">
+    <title lang="es">9-1-1 Lone Star</title>
+  </programme>
+  <programme start="20201029084800 -0600" stop="20201029090800 -0600" channel="Canal Fox">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201029090800 -0600" stop="20201029105300 -0600" channel="Canal Fox">
+    <title lang="es">Mi Nueva Yo</title>
+  </programme>
+  <programme start="20201029105300 -0600" stop="20201029132600 -0600" channel="Canal Fox">
+    <title lang="es">El sorprendente hombre araña</title>
+  </programme>
+  <programme start="20201029132600 -0600" stop="20201029135000 -0600" channel="Canal Fox">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20201029135000 -0600" stop="20201029141200 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201029141200 -0600" stop="20201029160000 -0600" channel="Canal Fox">
+    <title lang="es">Elektra</title>
+  </programme>
+  <programme start="20201029160000 -0600" stop="20201029183000 -0600" channel="Canal Fox">
+    <title lang="es">Pequeña Gran Vida</title>
+  </programme>
+  <programme start="20201029183000 -0600" stop="20201029205300 -0600" channel="Canal Fox">
+    <title lang="es">Un zoológico en casa</title>
+  </programme>
+  <programme start="20201029205300 -0600" stop="20201029211400 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201029211400 -0600" stop="20201029213800 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201029213800 -0600" stop="20201029220300 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201029220300 -0600" stop="20201029222900 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201029222900 -0600" stop="20201029225500 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201029225500 -0600" stop="20201030003000 -0600" channel="Canal Fox">
+    <title lang="es">Miedo Profundo</title>
+  </programme>
+  <programme start="20201030225500 -0600" stop="20201031003000 -0600" channel="Canal Fox">
+    <title lang="es">Miedo Profundo</title>
+  </programme>
+  <programme start="20201031003000 -0600" stop="20201031022000 -0600" channel="Canal Fox">
+    <title lang="es">The Punisher: Zona de guerra</title>
+  </programme>
+  <programme start="20201031022000 -0600" stop="20201031024600 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201031024600 -0600" stop="20201031030600 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201031030600 -0600" stop="20201031045700 -0600" channel="Canal Fox">
+    <title lang="es">X-Men Orígenes: Wolverine</title>
+  </programme>
+  <programme start="20201031045700 -0600" stop="20201031064400 -0600" channel="Canal Fox">
+    <title lang="es">Ghost rider</title>
+  </programme>
+  <programme start="20201031064400 -0600" stop="20201031070500 -0600" channel="Canal Fox">
+    <title lang="es">Speechless</title>
+  </programme>
+  <programme start="20201031070500 -0600" stop="20201031072600 -0600" channel="Canal Fox">
+    <title lang="es">Speechless</title>
+  </programme>
+  <programme start="20201031072600 -0600" stop="20201031080000 -0600" channel="Canal Fox">
+    <title lang="es">Speechless</title>
+  </programme>
+  <programme start="20201031080000 -0600" stop="20201031084800 -0600" channel="Canal Fox">
+    <title lang="es">9-1-1 Lone Star</title>
+  </programme>
+  <programme start="20201031084800 -0600" stop="20201031101200 -0600" channel="Canal Fox">
+    <title lang="es">Tadeo el Explorador Perdido 2</title>
+  </programme>
+  <programme start="20201031101200 -0600" stop="20201031123700 -0600" channel="Canal Fox">
+    <title lang="es">Pequeña Gran Vida</title>
+  </programme>
+  <programme start="20201031123700 -0600" stop="20201031130400 -0600" channel="Canal Fox">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20201031130400 -0600" stop="20201031133000 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201031133000 -0600" stop="20201031135500 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201031135500 -0600" stop="20201031142000 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201031142000 -0600" stop="20201031144400 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201031144400 -0600" stop="20201031163600 -0600" channel="Canal Fox">
+    <title lang="es">X-Men</title>
+  </programme>
+  <programme start="20201031163600 -0600" stop="20201031182300 -0600" channel="Canal Fox">
+    <title lang="es">Cómo Entrenar a tu Dragón</title>
+  </programme>
+  <programme start="20201031182300 -0600" stop="20201031204900 -0600" channel="Canal Fox">
+    <title lang="es">X-Men: Días del Futuro Pasado</title>
+  </programme>
+  <programme start="20201031204900 -0600" stop="20201031211200 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201031211200 -0600" stop="20201031213700 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201031213700 -0600" stop="20201031220200 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201031220200 -0600" stop="20201031222900 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201031222900 -0600" stop="20201031225500 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201031225500 -0600" stop="20201101004500 -0600" channel="Canal Fox">
+    <title lang="es">Angry Birds: La película</title>
+  </programme>
+  <programme start="20201101225500 -0600" stop="20201102004500 -0600" channel="Canal Fox">
+    <title lang="es">Angry Birds: La película</title>
+  </programme>
+  <programme start="20201102004500 -0600" stop="20201102022300 -0600" channel="Canal Fox">
+    <title lang="es">Los 4 Fantásticos y Silver S</title>
+  </programme>
+  <programme start="20201102022300 -0600" stop="20201102025000 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102025000 -0600" stop="20201102031000 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102031000 -0600" stop="20201102050600 -0600" channel="Canal Fox">
+    <title lang="es">Ted 2</title>
+  </programme>
+  <programme start="20201102050600 -0600" stop="20201102064600 -0600" channel="Canal Fox">
+    <title lang="es">Mi Nueva Yo</title>
+  </programme>
+  <programme start="20201102064600 -0600" stop="20201102070800 -0600" channel="Canal Fox">
+    <title lang="es">Speechless</title>
+  </programme>
+  <programme start="20201102070800 -0600" stop="20201102073000 -0600" channel="Canal Fox">
+    <title lang="es">Speechless</title>
+  </programme>
+  <programme start="20201102073000 -0600" stop="20201102080000 -0600" channel="Canal Fox">
+    <title lang="es">Speechless</title>
+  </programme>
+  <programme start="20201102080000 -0600" stop="20201102094500 -0600" channel="Canal Fox">
+    <title lang="es">Escalofríos</title>
+  </programme>
+  <programme start="20201102094500 -0600" stop="20201102100100 -0600" channel="Canal Fox">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20201102100100 -0600" stop="20201102102000 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102102000 -0600" stop="20201102104500 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102104500 -0600" stop="20201102110700 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102110700 -0600" stop="20201102113200 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102113200 -0600" stop="20201102115900 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102115900 -0600" stop="20201102122400 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102122400 -0600" stop="20201102125000 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102125000 -0600" stop="20201102131100 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102131100 -0600" stop="20201102133700 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102133700 -0600" stop="20201102140300 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102140300 -0600" stop="20201102142800 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102142800 -0600" stop="20201102145500 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102145500 -0600" stop="20201102152100 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102152100 -0600" stop="20201102154600 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102154600 -0600" stop="20201102160800 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102160800 -0600" stop="20201102163300 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102163300 -0600" stop="20201102170000 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102170000 -0600" stop="20201102172500 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102172500 -0600" stop="20201102175300 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102175300 -0600" stop="20201102181800 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102181800 -0600" stop="20201102184600 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201102184600 -0600" stop="20201102190600 -0600" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201029004800 -0600" stop="20201029020800 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Nadie Camina</title>
+  </programme>
+  <programme start="20201029020800 -0600" stop="20201029041700 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">El Hombre que Mató a Don Q</title>
+  </programme>
+  <programme start="20201029041700 -0600" stop="20201029055800 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Las edades de Lulú</title>
+  </programme>
+  <programme start="20201029055800 -0600" stop="20201029072600 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">¿Quién mató a Bambi</title>
+  </programme>
+  <programme start="20201029072600 -0600" stop="20201029085400 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">No te olvides de mí</title>
+  </programme>
+  <programme start="20201029085400 -0600" stop="20201029102600 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Ashley</title>
+  </programme>
+  <programme start="20201029102600 -0600" stop="20201029121000 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">No Dormirás</title>
+  </programme>
+  <programme start="20201029121000 -0600" stop="20201029133700 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">El cuidado de una amiga</title>
+  </programme>
+  <programme start="20201029133700 -0600" stop="20201029155500 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Babel</title>
+  </programme>
+  <programme start="20201029155500 -0600" stop="20201029182300 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">La sospecha</title>
+  </programme>
+  <programme start="20201029182300 -0600" stop="20201029200000 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">El guardaespaldas de Lincoln</title>
+  </programme>
+  <programme start="20201029200000 -0600" stop="20201029220400 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Max Schmeling</title>
+  </programme>
+  <programme start="20201029220400 -0600" stop="20201029234800 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Paranoia</title>
+  </programme>
+  <programme start="20201029234800 -0600" stop="20201030011100 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Ginger &amp; Rosa</title>
+  </programme>
+  <programme start="20201030011100 -0600" stop="20201030031200 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Una Mujer Fantástica</title>
+  </programme>
+  <programme start="20201030031200 -0600" stop="20201030045000 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Séptimo</title>
+  </programme>
+  <programme start="20201030045000 -0600" stop="20201030061600 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Crossword Mysteries</title>
+  </programme>
+  <programme start="20201030061600 -0600" stop="20201030082600 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">El Hombre que Mató a Don Q</title>
+  </programme>
+  <programme start="20201030082600 -0600" stop="20201030102000 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Divaldo Franco</title>
+  </programme>
+  <programme start="20201030102000 -0600" stop="20201030115200 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">La voz del interior</title>
+  </programme>
+  <programme start="20201030115200 -0600" stop="20201030132200 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">La Historia De John Lennon</title>
+  </programme>
+  <programme start="20201030132200 -0600" stop="20201030145300 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">No Good Deed</title>
+  </programme>
+  <programme start="20201030145300 -0600" stop="20201030161800 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">La maldición de las hermanas</title>
+  </programme>
+  <programme start="20201030161800 -0600" stop="20201030182000 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">El Regreso del Héroe</title>
+  </programme>
+  <programme start="20201030182000 -0600" stop="20201030200000 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Una Historia Real</title>
+  </programme>
+  <programme start="20201030200000 -0600" stop="20201030220200 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">El guardaespaldas de Lincoln</title>
+  </programme>
+  <programme start="20201030220200 -0600" stop="20201030235200 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Tren nocturno a Lisboa</title>
+  </programme>
+  <programme start="20201030235200 -0600" stop="20201031015300 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">En la Penumbra</title>
+  </programme>
+  <programme start="20201031015300 -0600" stop="20201031040000 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">The Day Will Come</title>
+  </programme>
+  <programme start="20201031040000 -0600" stop="20201031053200 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">La carta</title>
+  </programme>
+  <programme start="20201031053200 -0600" stop="20201031065200 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Stuck</title>
+  </programme>
+  <programme start="20201031065200 -0600" stop="20201031082200 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">¿Quién mató a Bambi</title>
+  </programme>
+  <programme start="20201031082200 -0600" stop="20201031094600 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Maine</title>
+  </programme>
+  <programme start="20201031094600 -0600" stop="20201031111100 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Séptimo</title>
+  </programme>
+  <programme start="20201031111100 -0600" stop="20201031125000 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Third Man Out</title>
+  </programme>
+  <programme start="20201031125000 -0600" stop="20201031145400 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Max Schmeling</title>
+  </programme>
+  <programme start="20201031145400 -0600" stop="20201031165400 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">El guardaespaldas de Lincoln</title>
+  </programme>
+  <programme start="20201031165400 -0600" stop="20201031181800 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">La maldición de las hermanas</title>
+  </programme>
+  <programme start="20201031181800 -0600" stop="20201031200000 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Paranoia</title>
+  </programme>
+  <programme start="20201031200000 -0600" stop="20201031215400 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">High life</title>
+  </programme>
+  <programme start="20201031215400 -0600" stop="20201031234100 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Ad Astra</title>
+  </programme>
+  <programme start="20201031234100 -0600" stop="20201101010600 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">La maldición de las hermanas</title>
+  </programme>
+  <programme start="20201101010600 -0600" stop="20201101025000 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">No Dormirás</title>
+  </programme>
+  <programme start="20201101025000 -0600" stop="20201101043000 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Es personal</title>
+  </programme>
+  <programme start="20201101043000 -0600" stop="20201101052300 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Sitiados México</title>
+  </programme>
+  <programme start="20201101052300 -0600" stop="20201101070400 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">El amante bilingüe</title>
+  </programme>
+  <programme start="20201101070400 -0600" stop="20201101085300 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">How He Fell in Love</title>
+  </programme>
+  <programme start="20201101085300 -0600" stop="20201101105300 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Chocolate</title>
+  </programme>
+  <programme start="20201101105300 -0600" stop="20201101122300 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">No Good Deed</title>
+  </programme>
+  <programme start="20201101122300 -0600" stop="20201101141900 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">The Other Side of Heaven 2</title>
+  </programme>
+  <programme start="20201101141900 -0600" stop="20201101161600 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">The Day Will Come</title>
+  </programme>
+  <programme start="20201101161600 -0600" stop="20201101175200 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Una Historia Real</title>
+  </programme>
+  <programme start="20201101175200 -0600" stop="20201101200000 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">El amor menos pensado</title>
+  </programme>
+  <programme start="20201101200000 -0600" stop="20201101214000 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Una Mujer Fantástica</title>
+  </programme>
+  <programme start="20201101214000 -0600" stop="20201101230800 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">El Regreso del Héroe</title>
+  </programme>
+  <programme start="20201101230800 -0600" stop="20201102005200 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">La Iglesia De La Salvación</title>
+  </programme>
+  <programme start="20201102005200 -0600" stop="20201102023900 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Stuey</title>
+  </programme>
+  <programme start="20201102023900 -0600" stop="20201102040900 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Maine</title>
+  </programme>
+  <programme start="20201102040900 -0600" stop="20201102051100 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Sitiados México</title>
+  </programme>
+  <programme start="20201102051100 -0600" stop="20201102065200 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Paranoia</title>
+  </programme>
+  <programme start="20201102065200 -0600" stop="20201102081700 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">La maldición de las hermanas</title>
+  </programme>
+  <programme start="20201102081700 -0600" stop="20201102093700 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Stuck</title>
+  </programme>
+  <programme start="20201102093700 -0600" stop="20201102114600 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">El Hombre que Mató a Don Q</title>
+  </programme>
+  <programme start="20201102114600 -0600" stop="20201102132400 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Es personal</title>
+  </programme>
+  <programme start="20201102132400 -0600" stop="20201102145600 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">El ojo del mal</title>
+  </programme>
+  <programme start="20201102145600 -0600" stop="20201102163400 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Third Man Out</title>
+  </programme>
+  <programme start="20201102163400 -0600" stop="20201102181700 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">No Dormirás</title>
+  </programme>
+  <programme start="20201102181700 -0600" stop="20201102200000 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Todo por mi hijo</title>
+  </programme>
+  <programme start="20201102200000 -0600" stop="20201102215500 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Ad Astra</title>
+  </programme>
+  <programme start="20201102215500 -0600" stop="20201102234100 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">High life</title>
+  </programme>
+  <programme start="20201102234100 -0600" stop="20201103012600 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Campos de Londres</title>
+  </programme>
+  <programme start="20201103234100 -0600" stop="20201104012600 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Campos de Londres</title>
+  </programme>
+  <programme start="20201104012600 -0600" stop="20201104030500 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Las edades de Lulú</title>
+  </programme>
+  <programme start="20201104030500 -0600" stop="20201104042000 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Intenciones ocultas</title>
+  </programme>
+  <programme start="20201104042000 -0600" stop="20201104062200 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Chocolate</title>
+  </programme>
+  <programme start="20201104062200 -0600" stop="20201104081100 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Stuey</title>
+  </programme>
+  <programme start="20201104081100 -0600" stop="20201104094300 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Voces en el Bosque</title>
+  </programme>
+  <programme start="20201104094300 -0600" stop="20201104114400 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">La Habitación</title>
+  </programme>
+  <programme start="20201104114400 -0600" stop="20201104133600 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">How He Fell in Love</title>
+  </programme>
+  <programme start="20201104133600 -0600" stop="20201104151900 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Una Mujer Fantástica</title>
+  </programme>
+  <programme start="20201104151900 -0600" stop="20201104172800 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">El amor menos pensado</title>
+  </programme>
+  <programme start="20201104172800 -0600" stop="20201104200000 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">La sospecha</title>
+  </programme>
+  <programme start="20201104200000 -0600" stop="20201104212800 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Maine</title>
+  </programme>
+  <programme start="20201104212800 -0600" stop="20201104225200 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">Todos esos pequeños momentos</title>
+  </programme>
+  <programme start="20201104225200 -0600" stop="20201105003800 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">El clan</title>
+  </programme>
+  <programme start="20201105225200 -0600" stop="20201106003800 -0600" channel="Canal Fox Premium Cinéma">
+    <title lang="es">El clan</title>
+  </programme>
+  <programme start="20201029003400 -0600" stop="20201029023400 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Desquite fatal</title>
+  </programme>
+  <programme start="20201029023400 -0600" stop="20201029043800 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Especies</title>
+  </programme>
+  <programme start="20201029043800 -0600" stop="20201029064200 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Duelo de titanes</title>
+  </programme>
+  <programme start="20201029064200 -0600" stop="20201029075500 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El Texano Solitario</title>
+  </programme>
+  <programme start="20201029075500 -0600" stop="20201029093200 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El oeste loco</title>
+  </programme>
+  <programme start="20201029093200 -0600" stop="20201029111300 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Mi pobre angelito</title>
+  </programme>
+  <programme start="20201029111300 -0600" stop="20201029130100 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">En busca de Bobby Fischer</title>
+  </programme>
+  <programme start="20201029130100 -0600" stop="20201029153100 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Cómo casi se perdió el Oeste</title>
+  </programme>
+  <programme start="20201029153100 -0600" stop="20201029172300 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Butch Cassidy</title>
+  </programme>
+  <programme start="20201029172300 -0600" stop="20201029190000 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El implacable</title>
+  </programme>
+  <programme start="20201029190000 -0600" stop="20201029210000 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Desquite fatal</title>
+  </programme>
+  <programme start="20201029210000 -0600" stop="20201029224700 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Fuego en el cielo</title>
+  </programme>
+  <programme start="20201029224700 -0600" stop="20201030003200 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Especies</title>
+  </programme>
+  <programme start="20201030224700 -0600" stop="20201031003200 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Especies</title>
+  </programme>
+  <programme start="20201031003200 -0600" stop="20201031020500 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Maleficio</title>
+  </programme>
+  <programme start="20201031020500 -0600" stop="20201031042200 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El regreso de la pantera rosa</title>
+  </programme>
+  <programme start="20201031042200 -0600" stop="20201031064300 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Cromwell Hombre de Hierro</title>
+  </programme>
+  <programme start="20201031064300 -0600" stop="20201031081900 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El salvaje</title>
+  </programme>
+  <programme start="20201031081900 -0600" stop="20201031093100 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El Texano Solitario</title>
+  </programme>
+  <programme start="20201031093100 -0600" stop="20201031112300 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">A Nightingale Sang in Berkeley</title>
+  </programme>
+  <programme start="20201031112300 -0600" stop="20201031132800 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Maratón de la muerte</title>
+  </programme>
+  <programme start="20201031132800 -0600" stop="20201031150100 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Cujo</title>
+  </programme>
+  <programme start="20201031150100 -0600" stop="20201031164300 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Mi pobre angelito</title>
+  </programme>
+  <programme start="20201031164300 -0600" stop="20201031182500 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Hechizo del tiempo</title>
+  </programme>
+  <programme start="20201031182500 -0600" stop="20201031200000 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El Vengador Anónimo 5</title>
+  </programme>
+  <programme start="20201031200000 -0600" stop="20201031214400 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Congo</title>
+  </programme>
+  <programme start="20201031214400 -0600" stop="20201031232100 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El implacable</title>
+  </programme>
+  <programme start="20201031232100 -0600" stop="20201101010200 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Asesinato a Precio Fijo</title>
+  </programme>
+  <programme start="20201101010200 -0600" stop="20201101024600 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Los valientes</title>
+  </programme>
+  <programme start="20201101024600 -0600" stop="20201101044300 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El regalo prometido</title>
+  </programme>
+  <programme start="20201101044300 -0600" stop="20201101063800 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El detective</title>
+  </programme>
+  <programme start="20201101063800 -0600" stop="20201101090900 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Cómo casi se perdió el Oeste</title>
+  </programme>
+  <programme start="20201101090900 -0600" stop="20201101110200 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Butch Cassidy</title>
+  </programme>
+  <programme start="20201101110200 -0600" stop="20201101130100 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El regreso de la pantera rosa</title>
+  </programme>
+  <programme start="20201101130100 -0600" stop="20201101145000 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El joven Sherlock Holmes</title>
+  </programme>
+  <programme start="20201101145000 -0600" stop="20201101164200 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">La Profecía</title>
+  </programme>
+  <programme start="20201101164200 -0600" stop="20201101182900 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Fuego en el cielo</title>
+  </programme>
+  <programme start="20201101182900 -0600" stop="20201101200000 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Maleficio</title>
+  </programme>
+  <programme start="20201101200000 -0600" stop="20201101213900 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Carrie</title>
+  </programme>
+  <programme start="20201101213900 -0600" stop="20201101231100 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Cujo</title>
+  </programme>
+  <programme start="20201101231100 -0600" stop="20201102005000 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">La masacre de Texas 2</title>
+  </programme>
+  <programme start="20201102231100 -0600" stop="20201103005000 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">La masacre de Texas 2</title>
+  </programme>
+  <programme start="20201103005000 -0600" stop="20201103040200 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Estigma</title>
+  </programme>
+  <programme start="20201103040200 -0600" stop="20201103061000 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El Dorado</title>
+  </programme>
+  <programme start="20201103061000 -0600" stop="20201103080200 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">La Profecía</title>
+  </programme>
+  <programme start="20201103080200 -0600" stop="20201103094100 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Estigma</title>
+  </programme>
+  <programme start="20201103094100 -0600" stop="20201103112200 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Asesinato a Precio Fijo</title>
+  </programme>
+  <programme start="20201103112200 -0600" stop="20201103130300 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Hechizo del tiempo</title>
+  </programme>
+  <programme start="20201103130300 -0600" stop="20201103145800 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El expreso de Chicago</title>
+  </programme>
+  <programme start="20201103145800 -0600" stop="20201103163300 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El Vengador Anónimo 5</title>
+  </programme>
+  <programme start="20201103163300 -0600" stop="20201103181700 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Congo</title>
+  </programme>
+  <programme start="20201103181700 -0600" stop="20201103200000 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">La hora de las pistolas</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103213900 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Yo soy la ley</title>
+  </programme>
+  <programme start="20201103213900 -0600" stop="20201103231300 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">La Pandilla Maldita</title>
+  </programme>
+  <programme start="20201103231300 -0600" stop="20201104005500 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">La isla misteriosa</title>
+  </programme>
+  <programme start="20201104231300 -0600" stop="20201105005500 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">La isla misteriosa</title>
+  </programme>
+  <programme start="20201105005500 -0600" stop="20201105022100 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El Cisne negro</title>
+  </programme>
+  <programme start="20201105022100 -0600" stop="20201105033500 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Cabalgar en solitario</title>
+  </programme>
+  <programme start="20201105033500 -0600" stop="20201105050000 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Invasores de Marte</title>
+  </programme>
+  <programme start="20201105050000 -0600" stop="20201105063800 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Titanic</title>
+  </programme>
+  <programme start="20201105063800 -0600" stop="20201105083300 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El detective</title>
+  </programme>
+  <programme start="20201105083300 -0600" stop="20201105102500 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">La Profecía</title>
+  </programme>
+  <programme start="20201105102500 -0600" stop="20201105120500 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">La masacre de Texas 2</title>
+  </programme>
+  <programme start="20201105120500 -0600" stop="20201105132400 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Invasores de Marte</title>
+  </programme>
+  <programme start="20201105132400 -0600" stop="20201105145000 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El Cisne negro</title>
+  </programme>
+  <programme start="20201105145000 -0600" stop="20201105163200 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">La isla misteriosa</title>
+  </programme>
+  <programme start="20201105163200 -0600" stop="20201105181000 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">La pista de la pantera rosa</title>
+  </programme>
+  <programme start="20201105181000 -0600" stop="20201105200000 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">El joven Sherlock Holmes</title>
+  </programme>
+  <programme start="20201105200000 -0600" stop="20201105214100 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">The last Wagon</title>
+  </programme>
+  <programme start="20201105214100 -0600" stop="20201105231500 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">Venganza mortal</title>
+  </programme>
+  <programme start="20201105231500 -0600" stop="20201106005800 -0600" channel="Canal Fox Premium Classics">
+    <title lang="es">La hora de las pistolas</title>
+  </programme>
+</tv>
